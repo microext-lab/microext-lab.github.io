@@ -1,9 +1,9 @@
 
 ---
+title: Línea Post-incendios
+layout: single
 permalink: /linea-postincendios/
-title: "Ecología microbiana post-incendios"
 ---
-
 
 
 # 🔥 Ecología microbiana post-incendios
