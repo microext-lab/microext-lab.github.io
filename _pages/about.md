@@ -103,6 +103,63 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
 </div>
 
 ---
+<style>
+.cards-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 30px 0;
+}
+
+.card {
+  flex: 1;
+  min-width: 260px;
+  background-color: #f3f5ff; /* COLOR DEL FONDO → podés cambiarlo */
+  padding: 25px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: 0.3s;
+  font-size: 18px;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0,0,0,0.15);
+  cursor: pointer;
+}
+
+.card a {
+  color: #003366;
+  font-weight: bold;
+  text-decoration: none;
+}
+</style>
+
+<div class="cards-container">
+
+  <div class="card">
+    <a href="{{ site.baseurl }}/lineas/ecologia-fuego.html">
+      Ecología microbiana post-incendios
+    </a>
+  </div>
+
+  <div class="card">
+    <a href="{{ site.baseurl }}/lineas/geomicrobiologia-hipersalinos.html">
+      Geomicrobiología en ambientes hipersalinos
+    </a>
+  </div>
+
+  <div class="card">
+    <a href="{{ site.baseurl }}/lineas/lagunas-antartida.html">
+      Microbiología de lagunas de Antártida
+    </a>
+  </div>
+
+</div>
+
+
+
 
 ## **Coordinadora de grupo: Dra. Cecilia E. Mlewski**
 
