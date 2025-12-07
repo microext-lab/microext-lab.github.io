@@ -69,7 +69,6 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
 
 ---
 
-## **Líneas de investigación**
 ---
 <h2><strong>Líneas de investigación</strong></h2>
 
@@ -103,7 +102,7 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
 
 <div class="lineas-grid">
 
-  <a class="linea-card postfuego" href="/linea-postincendios">
+  <a class="linea-card postfuego" href="/linea-postincendios/">
     <h3> Ecología microbiana post-incendios</h3>
     <p>Estudio de comunidades edáficas afectadas por fuego.</p>
   </a>
