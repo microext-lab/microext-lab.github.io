@@ -67,7 +67,6 @@ redirect_from:
 
 Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas moleculares, experimentación y análisis bioinformáticos para comprender el rol de las comunidades microbianas en ecosistemas naturales y perturbados, especialmente aquellos afectados por incendios. También abordamos el estudio de biocostras, ambientes extremos y procesos biogeoquímicos en sistemas acuáticos y terrestres.
 
----
 
 ---
 <h2><strong>Líneas de investigación</strong></h2>
