@@ -1,8 +1,9 @@
 
 ---
-permalink: /linea-postincendios
+permalink: /linea-postincendios/
 title: "Ecología microbiana post-incendios"
 ---
+
 
 # 🔥 Ecología microbiana post-incendios
 
