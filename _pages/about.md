@@ -119,6 +119,55 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
   </a>
 
 </div>
+---
+<h2><strong>Líneas de investigación</strong></h2>
+
+<style>
+.lineas-grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
+
+.linea-card {
+  flex: 1 1 250px;
+  padding: 20px;
+  border-radius: 12px;
+  color: black;
+  text-decoration: none;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.linea-card:hover {
+  transform: scale(1.03);
+}
+
+/* Colores personalizados */
+.postfuego { background-color: #ffcc9c; }     /* naranjita */
+.hipersalinos { background-color: #d6f5d6; }  /* verde suave */
+.antartida { background-color: #d9ecff; }     /* azul clarito */
+</style>
+
+<div class="lineas-grid">
+
+  <a class="linea-card postfuego" href="/linea-postincendios">
+    <h3>🔥 Ecología microbiana post-incendios</h3>
+    <p>Estudio de comunidades edáficas afectadas por fuego.</p>
+  </a>
+
+  <a class="linea-card hipersalinos" href="/linea-hipersalinos">
+    <h3>🧂 Geomicrobiología de ambientes hipersalinos</h3>
+    <p>Procesos microbianos en lagunas y sistemas salinos.</p>
+  </a>
+
+  <a class="linea-card antartida" href="/linea-antartida">
+    <h3>❄️ Ecología microbiana de lagunas de Antártida</h3>
+    <p>Comunidades de matas microbianas en ecosistemas polares.</p>
+  </a>
+
+</div>
 
 
 ---
