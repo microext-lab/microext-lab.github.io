@@ -70,12 +70,6 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
 ---
 
 ## **Líneas de investigación**
-- Ecología microbiana post-incendios
-- Geomicrobiología aplicada a ambientes hipersalinos
-- Ecología microbiana de lagunas de Antártida.
-
-
-## **Líneas de investigación**
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
 
