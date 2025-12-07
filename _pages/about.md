@@ -74,7 +74,7 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 30px;">
 
   <!-- TARJETA 1 — POST-INCENDIOS (NARANJA) -->
- <a href="{{ site.baseurl }}/linea-postincendios">
+<a href="/linea-postincendios/" style="text-decoration: none;">
     flex: 1 1 30%;
     padding: 20px;
     text-decoration: none;
