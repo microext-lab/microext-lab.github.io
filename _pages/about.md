@@ -71,36 +71,55 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
 
 ## **Líneas de investigación**
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 30px;">
 
-  <!-- TARJETA 1 -->
-  <a href="{{ site.baseurl }}/linea-postincendios" 
-     style="flex: 1; min-width: 280px; text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <h3>🔥 Ecología microbiana post-incendios</h3>
-      <p>Dinámica microbiana del suelo, pirofilia, resiliencia y recuperación.</p>
-    </div>
+  <!-- TARJETA 1 — POST-INCENDIOS (NARANJA) -->
+  <a href="/linea-postincendios" style="
+    flex: 1 1 30%;
+    padding: 20px;
+    text-decoration: none;
+    background: #FFE4C4; /* naranjita suave */
+    border-radius: 12px;
+    color: black;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    transition: transform 0.2s ease;
+  ">
+    <h3 style="margin-top: 0;">Ecología microbiana post-incendios</h3>
+    <p style="margin-bottom: 0;">Microbiomas edáficos, pirófilos, severidad y resiliencia.</p>
   </a>
 
-  <!-- TARJETA 2 -->
-  <a href="{{ site.baseurl }}/linea-hipersalinos" 
-     style="flex: 1; min-width: 280px; text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <h3>🧂 Geomicrobiología de ambientes hipersalinos</h3>
-      <p>Matas microbianas, biomineralización y procesos geobiológicos.</p>
-    </div>
+  <!-- TARJETA 2 — ANTÁRTIDA (AZUL) -->
+  <a href="/linea-antartida" style="
+    flex: 1 1 30%;
+    padding: 20px;
+    text-decoration: none;
+    background: #D6ECFF; /* celestito */
+    border-radius: 12px;
+    color: black;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    transition: transform 0.2s ease;
+  ">
+    <h3 style="margin-top: 0;">Ecología microbiana en lagunas de Antártida</h3>
+    <p style="margin-bottom: 0;">Matas microbianas, clima extremo y diversidad polares.</p>
   </a>
 
-  <!-- TARJETA 3 -->
-  <a href="{{ site.baseurl }}/linea-antartida" 
-     style="flex: 1; min-width: 280px; text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <h3>❄️ Microbiología de lagunas de Antártida</h3>
-      <p>Diversidad, dinámica y función en ambientes polares extremos.</p>
-    </div>
+  <!-- TARJETA 3 — HÍPERSALINOS (VERDE) -->
+  <a href="/linea-hipersalinos" style="
+    flex: 1 1 30%;
+    padding: 20px;
+    text-decoration: none;
+    background: #DFF5DF; /* verde pastel */
+    border-radius: 12px;
+    color: black;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    transition: transform 0.2s ease;
+  ">
+    <h3 style="margin-top: 0;">Geomicrobiología en ambientes hipersalinos</h3>
+    <p style="margin-bottom: 0;">Biocostras, cianobacterias y procesos geobiológicos.</p>
   </a>
 
 </div>
+
 
 ---
 <style>
