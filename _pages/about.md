@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Grupo de Investigación en Ecología y Microbiología de Suelos"
+title: "Grupo de Investigación en Ecología Microbiana de Ambientes Extremos"
 author_profile: true
 redirect_from: 
   - /about/
@@ -70,14 +70,47 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
 ---
 
 ## **Líneas de investigación**
-- Ecología microbiana del suelo  
-- Impacto del fuego en microbiomas edáficos  
-- Aplicaciones de secuenciación (16S, ITS, metagenómica)  
-- Bioinformática y análisis de comunidades microbianas  
+- Ecología microbiana post-incendios
+- Geomicrobiología aplicada a ambientes hipersalinos
+- Ecología microbiana de lagunas de Antártida.
+
+
+## **Líneas de investigación**
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+
+  <!-- TARJETA 1 -->
+  <a href="{{ site.baseurl }}/linea-postincendios" 
+     style="flex: 1; min-width: 280px; text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <h3>🔥 Ecología microbiana post-incendios</h3>
+      <p>Dinámica microbiana del suelo, pirofilia, resiliencia y recuperación.</p>
+    </div>
+  </a>
+
+  <!-- TARJETA 2 -->
+  <a href="{{ site.baseurl }}/linea-hipersalinos" 
+     style="flex: 1; min-width: 280px; text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <h3>🧂 Geomicrobiología de ambientes hipersalinos</h3>
+      <p>Matas microbianas, biomineralización y procesos geobiológicos.</p>
+    </div>
+  </a>
+
+  <!-- TARJETA 3 -->
+  <a href="{{ site.baseurl }}/linea-antartida" 
+     style="flex: 1; min-width: 280px; text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <h3>❄️ Microbiología de lagunas de Antártida</h3>
+      <p>Diversidad, dinámica y función en ambientes polares extremos.</p>
+    </div>
+  </a>
+
+</div>
 
 ---
 
-## **Directora: Dra. Cecilia E. Mlewski**
+## **Coordinadora de grupo: Dra. Cecilia E. Mlewski**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
@@ -92,7 +125,7 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
 
   Con cepas de cianobacterias aisladas de la Puna avanzamos en el estudio de la resistencia y la remoción de arsénico. 
 
-  Finalmente, recientemente comenzamos a estudiar el efecto del fuego en las comunidades edáficas del Bosque Serrano, su dinámica y la detección de posibles microorganismos pirófilos.
+  Finalmente, comenzamos a estudiar el efecto del fuego en las comunidades edáficas del Bosque Serrano, su dinámica y la detección de posibles microorganismos pirófilos.
   </div>
 
 </div>
