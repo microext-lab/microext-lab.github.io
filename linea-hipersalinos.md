@@ -41,20 +41,6 @@ Esta línea investiga las interacciones entre microorganismos y minerales en amb
 - Identificar biosignaturas con potencial astrobiológico
 - Investigar la resistencia y remoción de arsénico por cianobacterias
 
-## Metodología
-
-- Técnicas de secuenciación masiva (16S rRNA, metagenómica)
-- Hibridación in situ fluorescente (FISH)
-- Microscopía electrónica y técnicas de caracterización mineral
-- Cultivo y aislamiento de cepas de cianobacterias
-- Experimentos de biorremediación de arsénico
-
-## Sitios de estudio
-
-- Laguna Negra, Puna Catamarqueña
-- Terma Los Hornos, Catamarca
-- Otros sistemas hipersalinos de altura
-
 ## Integrantes
 
 - Dra. Cecilia E. Mlewski (Coordinadora)
