@@ -183,9 +183,11 @@ exclude:
   - README
   - tmp
   - vendor
+
 keep_files:
   - .git
   - .svn
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -210,7 +212,7 @@ kramdown:
   enable_coderay: false
 
 
-# These settings control the types of collections used by the template
+# Collections (AcademicPages)
 collections:
   teaching:
     output: true
@@ -223,15 +225,15 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
   pages:
     output: true
     permalink: /:path/
 
 
-# These settings control how pages and collections are included in the site
+# Defaults (CORREGIDO)
 defaults:
-  # _posts
+  # posts
   - scope:
       path: ""
       type: posts
@@ -242,14 +244,16 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+
+  # pages (la colección pages que vive en _pages)
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
+
+  # teaching
   - scope:
       path: ""
       type: teaching
@@ -258,7 +262,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+
+  # publications
   - scope:
       path: ""
       type: publications
@@ -267,7 +272,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+
+  # portfolio
   - scope:
       path: ""
       type: portfolio
@@ -275,8 +281,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
+
+  # talks
   - scope:
       path: ""
       type: talks
@@ -284,6 +290,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Etc/UTC
 
 
 # Sass/SCSS
