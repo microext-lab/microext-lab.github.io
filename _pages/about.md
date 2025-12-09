@@ -118,6 +118,8 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
 
 </div>
 
+## **Coordinadora de grupo: Dra. Cecilia E. Mlewski**
+<h2 id="cecilia">Coordinadora de grupo: Dra. Cecilia E. Mlewski</h2>
 
 ## **Coordinadora de grupo: <h2 id="cecilia">Dra. Cecilia E. Mlewski</h2>**
 
