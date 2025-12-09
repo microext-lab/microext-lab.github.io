@@ -43,8 +43,7 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
 ## Integrantes
 
-- ## <a href="/">Dra. Cecilia E. Mlewski</a> (Coordinadora)
-
+- ## <a href="/about/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
 
 ---
 
