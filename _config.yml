@@ -228,6 +228,7 @@ collections:
     permalink: /:collection/:path/
   pages:
     output: true
+    permalink: /:name/
 
 # Defaults (CORREGIDO)
 defaults:
