@@ -41,21 +41,11 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
 - Identificar indicadores microbianos de cambio climático
 - Comprender las adaptaciones microbianas a condiciones extremas de frío
 
-## Metodología
-
-- Secuenciación masiva de segunda generación
-- Clonado y secuenciación Sanger
-- Hibridación in situ fluorescente (FISH)
-- Microscopía de alta resolución
-- Análisis biogeoquímicos
-
-## Sitios de estudio
-
-Lagos del archipiélago James Ross, Península Antártica, en colaboración con el Programa Antártico Argentino.
 
 ## Integrantes
 
 - Dra. Cecilia E. Mlewski (Coordinadora)
+- 
 
 ## Publicaciones relacionadas
 
