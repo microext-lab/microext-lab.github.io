@@ -91,7 +91,7 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
 </div>
 
-## **Biól. Micaela Gallinger**
+## **Biól. Mic Gallinger**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
