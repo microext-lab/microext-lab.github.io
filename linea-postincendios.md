@@ -36,26 +36,15 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
 ## Objetivos principales
 
-- Caracterizar las comunidades microbianas del suelo antes y después de incendios
-- Identificar microorganismos pirófilos o resistentes al fuego
-- Evaluar la dinámica de recuperación microbiana en distintos tiempos post-incendio
-- Relacionar los cambios microbianos con la recuperación de la vegetación y propiedades del suelo
-
-## Metodología
-
-- Secuenciación masiva de amplicones (16S rRNA y ITS)
-- Análisis metagenómicos funcionales
-- Caracterización fisicoquímica del suelo
-- Muestreos en cronosecuencias post-fuego
-
-## Sitios de estudio
-
-Bosque Serrano de las Sierras de Córdoba, Argentina, en zonas afectadas por incendios recientes y con distintos tiempos de recuperación.
+- Caracterizar las comunidades microbianas del suelo antes y después de incendios.
+- Identificar microorganismos pirófilos o resistentes al fuego.
+- Evaluar la dinámica de recuperación microbiana en distintos tiempos post-incendio.
+- Relacionar los cambios microbianos con la recuperación de la vegetación y propiedades del suelo.
 
 ## Integrantes
 
 - Dra. Cecilia E. Mlewski (Coordinadora)
-- [Agregar otros integrantes]
+- 
 
 ## Publicaciones relacionadas
 
