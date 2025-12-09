@@ -43,8 +43,7 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
 ## Integrantes
 
-- ## **Dra. Cecilia E. Mlewski** (Coordinadora)
-- - ## <a href="/">Dra. Cecilia E. Mlewski</a> (Coordinadora)
+- ## <a href="/">Dra. Cecilia E. Mlewski</a> (Coordinadora)
 
 
 ---
@@ -95,9 +94,15 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
 ## **Biól. Micaela Gallinger**
 
-## Publicaciones relacionadas
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
-[Agregar publicaciones relevantes]
+  <img src="{{ site.baseurl }}/images/romi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Romi">
+
+  <div>
+  <em>Biólogx. Becarix doctoral CONICET </em> Me interesa el impacto del fuego en la dinámica de las comunidades de microorganismos de los suelos de nuestras sierras cordobesas. Mi tesis de grado se enfocó en el estudio (cultivo y análisis mediante técnicas de secuenciación de ADN) de las cianobacterias edáficas de suelos incendiados. 
+  </div>
+
+</div>
 
 ---
 
