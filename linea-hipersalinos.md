@@ -43,8 +43,10 @@ Esta línea investiga las interacciones entre microorganismos y minerales en amb
 
 ## Integrantes
 
-- Dra. Cecilia E. Mlewski (Coordinadora)
-- Dra. Gabriela García
+
+- ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
+
+---
 
 ## Publicaciones relacionadas
 
