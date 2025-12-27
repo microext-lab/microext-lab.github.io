@@ -47,6 +47,38 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
 - ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
 
 ---
+
+- ## **Dr. Guillermo C. Fernandez**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+
+  <img src="{{ site.baseurl }}/images/guille.jpg" width="200" style="border-radius: 12px;" alt="Foto de Guille">
+
+  <div>
+  <em>Biólogo. Mi trabajo tiene como objetivo el estudio de la composición y estructura de matas microbianas de ambientes extremos (Península Antártica) y su relación con los parámetros químicos ambientales como asi también el establecimiento de relaciones causales entre los microorganismos y los procesos biogeoquímicos asociados.
+  </div>
+
+</div>
+
+- ## **Dra. Karina Lacomte**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+
+  <img src="{{ site.baseurl }}/images/kari.jpg" width="200" style="border-radius: 12px;" alt="Foto de Kari">
+
+  <div>
+  <em>
+
+
+    
+  </div>
+
+</div>
+
+
+
+
+
 ## Publicaciones relacionadas
 
 [Agregar publicaciones relevantes]
