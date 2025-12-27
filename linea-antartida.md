@@ -44,9 +44,9 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
 
 ## Integrantes
 
-- Dra. Cecilia E. Mlewski (Coordinadora)
-- 
+- ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
 
+---
 ## Publicaciones relacionadas
 
 [Agregar publicaciones relevantes]
