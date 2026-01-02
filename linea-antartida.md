@@ -64,7 +64,7 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
-  <img src="{{ site.baseurl }}/images/kari.jpg" width="200" style="border-radius: 12px;" alt="Foto de Kari">
+  <img src="{{ site.baseurl }}/images/Kari.jpg" width="200" style="border-radius: 12px;" alt="Foto de Kari">
 
   <div>
   <em> Geoóloga. </em> Investigo procesos geoquímicos que ocurren en la superficie terrestre, apuntando a meteorización química en ríos y lagunas. En particular analizo los elementos químicos disueltos y particulados (mayoritarios, trazas, elementos de tierras raras e isótopos), su evolución en el tiempo y distancia y su interacción con los factores que lo rodean en el ambiente.
