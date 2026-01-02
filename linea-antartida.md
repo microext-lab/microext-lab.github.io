@@ -55,7 +55,7 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
   <img src="{{ site.baseurl }}/images/guille.PNG" width="200" style="border-radius: 12px;" alt="Foto de Guille">
 
   <div>
-  <em>Biólogo. Mi trabajo tiene como objetivo el estudio de la composición y estructura de matas microbianas de ambientes extremos (Península Antártica) y su relación con los parámetros químicos ambientales como asi también el establecimiento de relaciones causales entre los microorganismos y los procesos biogeoquímicos asociados.
+  <em>Biólogo. </em> Mi trabajo tiene como objetivo el estudio de la composición y estructura de matas microbianas de ambientes extremos (Península Antártica) y su relación con los parámetros químicos ambientales como asi también el establecimiento de relaciones causales entre los microorganismos y los procesos biogeoquímicos asociados.
   </div>
 
 </div>
