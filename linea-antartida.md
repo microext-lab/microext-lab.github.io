@@ -82,7 +82,7 @@ En los últimos años he abordado esta disciplina en sistemas extremos, ya sean 
   <img src="{{ site.baseurl }}/images/JOSE.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Jose">
 
   <div>
-  <em> Biotecnóloga </em> Cuento con formación experimental en microbiología aplicada. He trabajado en el cultivo y análisis de microorganismos, evaluación de viabilidad celular y control microbiológico en sistemas acuáticos.
+  <em> Biotecnóloga. </em> Cuento con formación experimental en microbiología aplicada. He trabajado en el cultivo y análisis de microorganismos, evaluación de viabilidad celular y control microbiológico en sistemas acuáticos.
 
 Mi tesis se enfocó en la remoción de arsénico mediante cianobacterias, realizando ensayos de remoción y desorción de este metaloide, análisis de eficiencia del proceso y evaluación de alternativas de desorción con enfoque sustentable y bajo impacto ambiental. Utilicé técnicas de cultivo microbiano, monitoreo de crecimiento, espectrofotometría, ensayos de adsorción y análisis de datos experimentales.
 
