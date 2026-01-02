@@ -79,7 +79,7 @@ En los últimos años he abordado esta disciplina en sistemas extremos, ya sean 
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
-  <img src="{{ site.baseurl }}/images/jose.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Kari">
+  <img src="{{ site.baseurl }}/images/JOSE.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Jose">
 
   <div>
   <em> Biotecnóloga </em> Cuento con formación experimental en microbiología aplicada. He trabajado en el cultivo y análisis de microorganismos, evaluación de viabilidad celular y control microbiológico en sistemas acuáticos.
