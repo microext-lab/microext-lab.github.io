@@ -60,17 +60,17 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
 
 </div>
 
-- ## **Dra. Karina Lacomte**
+- ## **Dra. Karina Lecomte**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
   <img src="{{ site.baseurl }}/images/kari.jpg" width="200" style="border-radius: 12px;" alt="Foto de Kari">
 
   <div>
-  <em>
+  <em> Geoóloga. </em> Investigo procesos geoquímicos que ocurren en la superficie terrestre, apuntando a meteorización química en ríos y lagunas. En particular analizo los elementos químicos disueltos y particulados (mayoritarios, trazas, elementos de tierras raras e isótopos), su evolución en el tiempo y distancia y su interacción con los factores que lo rodean en el ambiente.
 
+En los últimos años he abordado esta disciplina en sistemas extremos, ya sean drenajes ácidos, sistemas muy fríos o bien lagunas concentradas. Son sistemas muy importantes desde el punto de vista ambiental, ya sea para determinar líneas de base naturales como para predecir futuras contaminaciones.
 
-    
   </div>
 
 </div>
