@@ -75,6 +75,23 @@ En los últimos años he abordado esta disciplina en sistemas extremos, ya sean 
 
 </div>
 
+- ## **Lic. Josefina Casaux**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+
+  <img src="{{ site.baseurl }}/images/jose.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Kari">
+
+  <div>
+  <em> Biotecnóloga </em> Cuento con formación experimental en microbiología aplicada. He trabajado en el cultivo y análisis de microorganismos, evaluación de viabilidad celular y control microbiológico en sistemas acuáticos.
+
+Mi tesis se enfocó en la remoción de arsénico mediante cianobacterias, realizando ensayos de remoción y desorción de este metaloide, análisis de eficiencia del proceso y evaluación de alternativas de desorción con enfoque sustentable y bajo impacto ambiental. Utilicé técnicas de cultivo microbiano, monitoreo de crecimiento, espectrofotometría, ensayos de adsorción y análisis de datos experimentales.
+
+Cuento además con formación en áreas clínicas y farmacológicas, lo que me permite integrar conceptos de microbiología ambiental y microbiología aplicada a la salud. Me caracterizo por la rigurosidad metodológica, el pensamiento crítico y una fuerte orientación a la investigación científica experimental.
+
+  </div>
+
+</div>
+
 
 
 
