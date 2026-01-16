@@ -130,7 +130,7 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
   La Laguna Negra y Terma Los Hornos, en la Puna Catamarqueña, representan otro de nuestros focos de estudio geomicrobiológico, donde buscamos comprender la relación microorganismo–mineral y la señal que esta interacción deja en el registro geológico, con implicancias astrobiológicas.  
   Con cepas de cianobacterias aisladas de la Puna avanzamos en el estudio de la resistencia y la remoción de arsénico.</p>
     <p>Finalmente, comenzamos a estudiar el efecto del fuego en las comunidades edáficas del Bosque Serrano, su dinámica y la detección de posibles microorganismos pirófilos.</p>
-<p><em> ecmlewski@imbiv.unc.edu.ar </em></p>
+<p><em> e-mail: ecmlewski@imbiv.unc.edu.ar </em></p>
 
   </div>
 
