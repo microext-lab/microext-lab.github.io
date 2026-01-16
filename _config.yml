@@ -23,7 +23,7 @@ repository               : "microext-lab/microext-lab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "banner3.png"
   name             : "Ecología Microbiana de Ambientes Extremos"
   bio              : "Grupo de Ecología Microbiana del IMBIV - CERNAR. Estudiamos microorganismos en suelos, biocostras y matas microbianas de ambientes extremos."
   location         : "Córdoba, Argentina"
