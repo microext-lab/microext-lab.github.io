@@ -43,12 +43,6 @@ Esta línea investiga las interacciones entre microorganismos y minerales en amb
 
 ## Integrantes
 
-
-- ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
-
----
-
-
 - ## **Geol. Emiliano Rivarola**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
@@ -62,10 +56,17 @@ Actividad de Investigación
 
 Mi tesis doctoral apunta a realizar un estudio integral sedimentológico, geomicrobiológico y biogeoquímico que nos permita identificar y caracterizar los factores que influyen en la precipitación de carbonatos en el Lago Strobel (Santa Cruz, Argentina), un excelente análogo terrestre para el sistema fluvio-deltaico que está siendo explorado por la NASA en el Cráter Jezero, del planeta Marte. Nuestro objetivo principal es identificar y caracterizar señales texturales, mineralógicas y biogeoquímicas potencialmente preservadas en estos depósitos del Holoceno, con el fin de poder discriminar señales biológicas de aquellas puramente químicas en depósitos carbonáticos del registro geológico.
 
-  </div>
+<a href="mailto:emiliano.rivarola@mi.unc.edu.ar">
+  emiliano.rivarola@mi.unc.edu.ar
+</a>
 
 </div>
 
+---------------------
+
+- ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
+
+---
 
 
 ## Publicaciones relacionadas
