@@ -125,18 +125,12 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
   <img src="{{ site.baseurl }}/images/Ceci-Mlewski.jpg" width="200" style="border-radius: 12px;" alt="Foto de Cecilia">
 
   <div>
-  <em>Bióloga. Investigadora.</em> Mi línea de trabajo aborda el estudio de las comunidades de microorganismos en ambientes extremos desde una perspectiva ecológica, genética y funcional, utilizando técnicas de secuenciación masiva de segunda generación, clonado/Sanger, marcación por hibridación in situ fluorescente y microscopía.
-
-
-  Dentro de los ambientes extremos encontramos lagos de la Antártida, más precisamente del archipiélago James Ross, donde estudiamos la diversidad microbiológica de matas microbianas asociadas a estos lagos, su dinámica y la importancia de ciertos grupos como posibles proxies relacionados al cambio climático. 
+  <p><em>Bióloga. Investigadora.</em> Mi línea de trabajo aborda el estudio de las comunidades de microorganismos en ambientes extremos desde una perspectiva ecológica, genética y funcional, utilizando técnicas de secuenciación masiva de segunda generación, clonado/Sanger, marcación por hibridación in situ fluorescente y microscopía.</p>
+  <p>Dentro de los ambientes extremos encontramos lagos de la Antártida, más precisamente del archipiélago James Ross, donde estudiamos la diversidad microbiológica de matas microbianas asociadas a estos lagos, su dinámica y la importancia de ciertos grupos como posibles proxies relacionados al cambio climático. 
   La Laguna Negra y Terma Los Hornos, en la Puna Catamarqueña, representan otro de nuestros focos de estudio geomicrobiológico, donde buscamos comprender la relación microorganismo–mineral y la señal que esta interacción deja en el registro geológico, con implicancias astrobiológicas.  
-  Con cepas de cianobacterias aisladas de la Puna avanzamos en el estudio de la resistencia y la remoción de arsénico. 
-
-  
-  Finalmente, comenzamos a estudiar el efecto del fuego en las comunidades edáficas del Bosque Serrano, su dinámica y la detección de posibles microorganismos pirófilos.
-
-
-      <em> ecmlewski@imbiv.unc.edu.ar </em>
+  Con cepas de cianobacterias aisladas de la Puna avanzamos en el estudio de la resistencia y la remoción de arsénico.</p>
+    <p>Finalmente, comenzamos a estudiar el efecto del fuego en las comunidades edáficas del Bosque Serrano, su dinámica y la detección de posibles microorganismos pirófilos.</p>
+<p><em> ecmlewski@imbiv.unc.edu.ar </em></p>
 
   </div>
 
