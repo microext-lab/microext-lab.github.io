@@ -42,9 +42,6 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 - Relacionar los cambios microbianos con la recuperación de la vegetación y propiedades del suelo.
 
 ## Integrantes
-
-- ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
-
 ---
 
 - ## **Dra. Edith Filippini**
@@ -102,6 +99,10 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
   </div>
 
 </div>
+
+---
+- ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
+
 
 ---
 
