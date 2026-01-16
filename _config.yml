@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ecología Microbiana de Ambientes Extremos"
-  bio              : "Grupo de Ecología Microbiana del IMBIV. Estudiamos microorganismos en suelos, biocostras y matas microbianas de ambientes extremos."
-  location         : "IMBIV, Córdoba, Argentina"
+  bio              : "Grupo de Ecología Microbiana del IMBIV - CERNAR. Estudiamos microorganismos en suelos, biocostras y matas microbianas de ambientes extremos."
+  location         : "Córdoba, Argentina"
   email            :  # ← vacío = no se muestra nada
 
   # Academic websites (vacíos para ocultar)
