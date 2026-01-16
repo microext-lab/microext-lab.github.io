@@ -42,6 +42,7 @@ Esta línea investiga las interacciones entre microorganismos y minerales en amb
 - Investigar la resistencia y remoción de arsénico por cianobacterias
 
 ## Integrantes
+
 - ## **Dr. Fernando J. Gomez**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
@@ -58,7 +59,23 @@ Esta línea investiga las interacciones entre microorganismos y minerales en amb
 
 </div>
   </div>
-  
+
+- ## **Dr. Agustín R. Mors**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+
+  <img src="{{ site.baseurl }}/images/agustinmors.jpg" width="200" style="border-radius: 12px;" alt="Foto de Agustin">
+
+  <div>
+ <p> <em>.Un espectro continuo de procesos físico-químicos, microbiológicos y sedimentarios influyen en la formación de depósitos carbonáticos. Mis intereses de investigación incluyen la comprensión a diferentes escalas de estos procesos que pueden ayudar a reconocer y diferenciar las señales físicas, químicas y biológicas dentro del registro sedimentario, permitiendo la comprensión más profunda de las interrelaciones entre la Geósfera y la Biósfera.</p>
+
+<p> <a href="mailto:ragustinmors@gmail.com">
+ e-mail: ragustinmors@gmail.com
+</a> </p>
+
+</div>
+  </div>
+
 - ## **Geól. Emiliano Rivarola**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
