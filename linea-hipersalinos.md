@@ -57,8 +57,8 @@ Esta línea investiga las interacciones entre microorganismos y minerales en amb
 </a> </p>
 
 </div>
-
-
+  </div>
+  
 - ## **Geól. Emiliano Rivarola**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
