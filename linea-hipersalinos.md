@@ -61,7 +61,7 @@ Mi tesis doctoral apunta a realizar un estudio integral sedimentológico, geomic
 </a>
 
 </div>
-
+    </div>
 ---------------------
 
 - ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
