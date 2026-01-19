@@ -68,7 +68,7 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
 ---
 
-## **Dra. Gabriela García**
+- ## **Dra. Gabriela García**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
@@ -92,7 +92,7 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
 ---
 
-## **Dra. Romina C. Torres**
+- ## **Dra. Romina C. Torres**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
@@ -112,6 +112,8 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
   </div>
 
 </div>
+
+---
 
 ## **Biól. Daihana Argibay**
 
@@ -135,6 +137,8 @@ Participo en proyectos de investigación en ecología del fuego y regímenes de 
   </div>
 
 </div>
+
+---
 
 ## **Biól. Mic Gallinger**
 
