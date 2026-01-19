@@ -52,8 +52,16 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
   <div>
   <em>Bióloga. Docente e investigadora.</em> Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidades según los diferentes usos del suelo. Actualmente me focalizo en las biocostras del Chaco Seco, investigando su composición, patrones de distribución y la relación con los rasgos funcionales de la vegetación.  
+  Soy una de las coordinadoras del proyecto “El Bosque Nativo Vuelve.
 
-  Soy una de las coordinadoras del proyecto “El Bosque Nativo Vuelve”.
+    <p>
+  <em>Contacto:</em><br>
+  <a href="mailto:edithfilippini@unc.edu.ar">
+      edithfilippini@unc.edu.ar
+  </a>
+</p>
+
+    
   </div>
 
 </div>
@@ -70,6 +78,14 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
   <em>Geóloga. Docente e investigadora.</em> Mi campo de investigación es el estudio de las fuentes y transformaciones de elementos en el medio exógeno a distintas escalas espaciales y temporales. Estos estudios permiten comprender los procesos que controlan el transporte y la remoción de elementos en medios acuosos y la formación de depósitos.  
 
   Utilizo técnicas avanzadas de caracterización de geomateriales (XRD, SEM/EDX, EMP, ICP-MS), además de herramientas de luz sincrotrón (XAFS, XRF) y análisis isotópicos. Los procesos observados en el campo son complementados con experimentos de laboratorio y modelado geoquímico.
+
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:  gabriela.garcia@unc.edu.ar">
+      gabriela.garcia@unc.edu.ar
+  </a>
+</p>
+
   </div>
 
 </div>
@@ -84,6 +100,15 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
   <div>
   <em>Bióloga. Docente e investigadora.</em> Me interesa particularmente el estudio de los procesos de regeneración de especies leñosas y la respuesta de la flora a distintos disturbios. También participo en proyectos de extensión y educación ambiental.
+
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:romy.ce2008@gmail.com ">
+    romy.ce2008@gmail.com 
+  </a>
+</p>
+
+  
   </div>
 
 </div>
@@ -97,6 +122,15 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
   <div>
   <em>Bióloga. Mg. en Desarrollo y Ambiente. Estudiante del Doctorado en Geomática y Sistemas Espaciales (Inst. Gulich, CONAE-UNC). CPA Profesional Asistente (IMBIV-CONICET). </em>
 Participo en proyectos de investigación en ecología del fuego y regímenes de incendio. Trabajo con sistemas de información geográfica, imágenes espaciales y cartografía.
+
+
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:dargibay@imbiv.unc.edu.ar">
+    dargibay@imbiv.unc.edu.ar
+  </a>
+</p>
+
   
   </div>
 
@@ -110,9 +144,18 @@ Participo en proyectos de investigación en ecología del fuego y regímenes de 
 
   <div>
   <em>Biólogx. Becarix doctoral CONICET. </em> Me interesa el impacto del fuego en la dinámica de las comunidades de microorganismos de los suelos de nuestras sierras cordobesas. Mi tesis de grado se enfocó en el estudio (cultivo y análisis mediante técnicas de secuenciación de ADN) de las cianobacterias edáficas de suelos incendiados. 
+    
+ <p>
+  <em>Contacto:</em><br>
+  <a href="mailto:micaelagallinger@mi.unc.edu.ar">
+    micaelagallinger@mi.unc.edu.ar
+  </a>
+</p>
+  
   </div>
-
 </div>
+
+
 
 ---
 - ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
