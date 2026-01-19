@@ -88,6 +88,20 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
 </div>
 
+## **Biól. Daihana Argibay**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+
+  <img src="{{ site.baseurl }}/images/dai.jpg" width="200" style="border-radius: 12px;" alt="Foto de Dai">
+
+  <div>
+  <em>Bióloga. Mg. en Desarrollo y Ambiente. Estudiante del Doctorado en Geomática y Sistemas Espaciales (Inst. Gulich, CONAE-UNC). CPA Profesional Asistente (IMBIV-CONICET). </em>
+Participo en proyectos de investigación en ecología del fuego y regímenes de incendio. Trabajo con sistemas de información geográfica, imágenes espaciales y cartografía.
+  
+  </div>
+
+</div>
+
 ## **Biól. Mic Gallinger**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
