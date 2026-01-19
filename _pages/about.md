@@ -131,16 +131,10 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
   Con cepas de cianobacterias aisladas de la Puna avanzamos en el estudio de la resistencia y la remoción de arsénico.</p>
     <p>Finalmente, comenzamos a estudiar el efecto del fuego en las comunidades edáficas del Bosque Serrano, su dinámica y la detección de posibles microorganismos pirófilos.</p>
 
-<p>
-  <em>📧 
-    <a href="mailto:ecmlewski@imbiv.unc.edu.ar">
-      ecmlewski@imbiv.unc.edu.ar
-    </a>
-  </em>
-</p>
+
 
 <p>
-  <em>📧 Contacto:</em><br>
+  <em> Contacto:</em><br>
   <a href="mailto:ecmlewski@imbiv.unc.edu.ar">
     ecmlewski@imbiv.unc.edu.ar
   </a>
