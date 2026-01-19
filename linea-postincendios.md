@@ -51,8 +51,9 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
   <img src="{{ site.baseurl }}/images/edith.jpg" width="200" style="border-radius: 12px;" alt="Foto de Edith">
 
   <div>
-  <em>Bióloga. Docente e investigadora.</em> Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidades según los diferentes usos del suelo. Actualmente me focalizo en las biocostras del Chaco Seco, investigando su composición, patrones de distribución y la relación con los rasgos funcionales de la vegetación.  
-  Soy una de las coordinadoras del proyecto “El Bosque Nativo Vuelve.
+  <em>Bióloga. Docente e investigadora.</em> 
+    <p>Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidades según los diferentes usos del suelo. Actualmente me focalizo en las biocostras del Chaco Seco, investigando su composición, patrones de distribución y la relación con los rasgos funcionales de la vegetación.  
+  Soy una de las coordinadoras del proyecto “El Bosque Nativo Vuelve. </p>
 
     <p>
   <em>Contacto:</em><br>
@@ -75,9 +76,9 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
   <img src="{{ site.baseurl }}/images/gabi.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Gabi">
 
   <div>
-  <em>Geóloga. Docente e investigadora.</em> Mi campo de investigación es el estudio de las fuentes y transformaciones de elementos en el medio exógeno a distintas escalas espaciales y temporales. Estos estudios permiten comprender los procesos que controlan el transporte y la remoción de elementos en medios acuosos y la formación de depósitos.  
-
-  Utilizo técnicas avanzadas de caracterización de geomateriales (XRD, SEM/EDX, EMP, ICP-MS), además de herramientas de luz sincrotrón (XAFS, XRF) y análisis isotópicos. Los procesos observados en el campo son complementados con experimentos de laboratorio y modelado geoquímico.
+  <em>Geóloga. Docente e investigadora.</em> 
+    <p>Mi campo de investigación es el estudio de las fuentes y transformaciones de elementos en el medio exógeno a distintas escalas espaciales y temporales. Estos estudios permiten comprender los procesos que controlan el transporte y la remoción de elementos en medios acuosos y la formación de depósitos.</p>
+  <p>Utilizo técnicas avanzadas de caracterización de geomateriales (XRD, SEM/EDX, EMP, ICP-MS), además de herramientas de luz sincrotrón (XAFS, XRF) y análisis isotópicos. Los procesos observados en el campo son complementados con experimentos de laboratorio y modelado geoquímico.</p>
 
 <p>
   <em>Contacto:</em><br>
@@ -99,7 +100,8 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
   <img src="{{ site.baseurl }}/images/romi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Romi">
 
   <div>
-  <em>Bióloga. Docente e investigadora.</em> Me interesa particularmente el estudio de los procesos de regeneración de especies leñosas y la respuesta de la flora a distintos disturbios. También participo en proyectos de extensión y educación ambiental.
+  <em>Bióloga. Docente e investigadora.</em> 
+    <p>Me interesa particularmente el estudio de los procesos de regeneración de especies leñosas y la respuesta de la flora a distintos disturbios. También participo en proyectos de extensión y educación ambiental.</p>
 
 <p>
   <em>Contacto:</em><br>
@@ -123,7 +125,7 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
   <div>
   <em>Bióloga. Mg. en Desarrollo y Ambiente. Estudiante del Doctorado en Geomática y Sistemas Espaciales (Inst. Gulich, CONAE-UNC). CPA Profesional Asistente (IMBIV-CONICET). </em>
-Participo en proyectos de investigación en ecología del fuego y regímenes de incendio. Trabajo con sistemas de información geográfica, imágenes espaciales y cartografía.
+<p>Participo en proyectos de investigación en ecología del fuego y regímenes de incendio. Trabajo con sistemas de información geográfica, imágenes espaciales y cartografía.</p>
 
 
 <p>
@@ -147,7 +149,8 @@ Participo en proyectos de investigación en ecología del fuego y regímenes de 
   <img src="{{ site.baseurl }}/images/mic.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Mic">
 
   <div>
-  <em>Biólogx. Becarix doctoral CONICET. </em> Me interesa el impacto del fuego en la dinámica de las comunidades de microorganismos de los suelos de nuestras sierras cordobesas. Mi tesis de grado se enfocó en el estudio (cultivo y análisis mediante técnicas de secuenciación de ADN) de las cianobacterias edáficas de suelos incendiados. 
+  <em>Biólogx. Becarix doctoral CONICET. </em> 
+  <p>Me interesa el impacto del fuego en la dinámica de las comunidades de microorganismos de los suelos de nuestras sierras cordobesas. Mi tesis de grado se enfocó en el estudio (cultivo y análisis mediante técnicas de secuenciación de ADN) de las cianobacterias edáficas de suelos incendiados. </p>
     
  <p>
   <em>Contacto:</em><br>
