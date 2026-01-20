@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Ecología microbiana de lagunas de Antártida"
 permalink: /linea-antartida/
 author_profile: true
