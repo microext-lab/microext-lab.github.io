@@ -42,7 +42,7 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
 - Comprender las adaptaciones microbianas a condiciones extremas de frío
 
 
-## Integrantes
+## Equipo de trabajo
 
 - ## **Dra. Karina Lecomte**
 
