@@ -2,7 +2,7 @@
 permalink: /
 title: "Grupo de Investigación en Ecología Microbiana de Ambientes Extremos"
 author_profile: true
-paginate: null
+show_pagination: false
 redirect_from: 
   - /about/
   - /about.html
