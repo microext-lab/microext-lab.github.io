@@ -42,9 +42,22 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-/* Ocultar navegación Previous / Next */
-.pagination,
-.page__pagination,
+/* ===== OCULTAR Previous / Next DEFINITIVAMENTE ===== */
+
+/* botones Previous / Next */
+.pagination--pager,
+a.pagination--pager,
 nav.pagination {
+  display: none !important;
+}
+
+/* navegación entre páginas */
+.page__pagination,
+.page__nav {
+  display: none !important;
+}
+
+/* separador que a veces queda */
+hr.pagination-sep {
   display: none !important;
 }
