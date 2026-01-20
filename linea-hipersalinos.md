@@ -41,7 +41,7 @@ Esta línea investiga las interacciones entre microorganismos y minerales en amb
 - Identificar biosignaturas con potencial astrobiológico
 - Investigar la resistencia y remoción de arsénico por cianobacterias
 
-## Integrantes
+## Equipo de trabajo
 
 - ## **Dr. Fernando J. Gomez**
 
