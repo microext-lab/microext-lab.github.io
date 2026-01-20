@@ -140,10 +140,7 @@ Nuestro grupo estudia la ecología microbiana del suelo, integrando herramientas
     ecmlewski@imbiv.unc.edu.ar
   </a>
 </p>
-
-
   </div>
-
 </div>
 
 ---
