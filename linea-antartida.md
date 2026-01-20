@@ -128,6 +128,7 @@ Cuento además con formación en áreas clínicas y farmacológicas, lo que me p
 Prokaryotic diversity and biogeochemical characteristics of benthic microbial ecosystems from James Ross Archipelago (West Antarctica)
 POLAR BIOLOGY; Lugar: Berlin; Año: 2022. </p>
 
+
 ---
 
 <a class="back-link" href="/">← Volver al inicio</a>
