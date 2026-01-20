@@ -6,7 +6,6 @@ author_profile: true
 paginate: false
 pagination:
   enabled: false
---- 
   - /about/
   - /about.html
 ---
