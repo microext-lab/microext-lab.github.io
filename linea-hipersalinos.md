@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Geomicrobiología de ambientes hipersalinos"
 permalink: /linea-hipersalinos/
 author_profile: true
