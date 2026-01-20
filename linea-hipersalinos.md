@@ -103,7 +103,41 @@ Esta línea investiga las interacciones entre microorganismos y minerales en amb
 
 ## Publicaciones relacionadas
 
-[Agregar publicaciones relevantes]
+<p> MLEWSKI, E.C.; SAONA LUIS; BOIDI, FJ; CHIAPPERO, F; VAIERETTI, MV; SORIA, M; FARIAS, ME; IZQUIERDO, A
+Exploring Soil Bacterial Diversity in Relation to Edaphic Physicochemical Properties of High-altitude Wetlands from Argentine Puna
+Microbial Ecology; Año: 2023 vol. 87 </p>
+
+<p> SOTO RUEDA, ELIANA; BORGNINO, L.; BIA, G.; GIL, PEDRO IGNACIO; BISBAL, M; PIETRASIAK, NICOLE; MLEWSKI, E.C.
+Responses to arsenic stress by the Andean benthic-extremophile cyanobacteria Rivularia halophila
+Algal Research; Año: 2023 vol. 75 </p>
+
+<p> MORS, R.A.; GOMEZ, F.J.; ASTINI RICARDO; MLEWSKI, EC; GERARD EMMANUELLE
+PHYSICO-chemical and biological controls in a travertine system in the high Andes of northwestern ARGENTINA
+SEDIMENTARY GEOLOGY; Lugar: Amsterdam; Año: 2022 </p>
+
+<p> FLAVIA BOIDI; MLEWSKI, ESTELA CECILIA; FERNÁNDEZ, GUILLERMO; FLORES REGINA; GERARD EMMANUELLE; FARIAS MARIA EUGENIA; GOMEZ FERNANDO
+Article Community Vertical Composition of the Laguna Negra Hypersaline Microbial Mat, Puna Region (Argentinean Andes)
+Biology; Lugar: Basel; Año: 2022 vol. 8 </p>
+
+<p> BIA, G.; GARCÍA, M.G.; RUEDA, E. SOTO; MORS, R.A.; MLEWSKI, E.C.; GOMEZ, F.J.; BORGNINO, L.
+Arsenic in natural carbonates: The role of the biogeochemical conditions in its solid speciation
+CHEMICAL GEOLOGY; Año: 2021 vol. 583 </p>
+
+<p> MLEWSKI, EC; GOMEZ, F.J.
+Amor a lo extremo, los habitantes de la Laguna Negra
+CICTERRANEA; Año: 2021 </p>
+
+<p> SHALYGIN, SERGEI; PIETRASIAK, NICOLE; GOMEZ, FERNANDO; MLEWSKI, ESTELA CECILIA; GERARD, EMMANUELLE; JOHANSEN, JEFFREY R.
+Rivularia halophila sp. nov. (Nostocales, Cyanobacteria): the first species of Rivularia described with the modern polyphasic approach
+EUROPEAN JOURNAL OF PHYCOLOGY; Año: 2018 </p>
+
+<p> MLEWSKI, ESTELA C.; PISAPIA, CÉLINE; GOMEZ, FERNANDO; LECOURT, LENA; SOTO RUEDA, ELIANA; BENZERARA, KARIM; MÉNEZ, BÉNÉDICTE; BORENSZTAJN, STEPHAN; JAMME, FRÉDÉRIC; RÉFRÉGIERS, MATTHIEU; GÉRARD, EMMANUELLE
+Characterization of Pustular Mats and Related Rivularia-Rich Laminations in Oncoids From the Laguna Negra Lake (Argentina)
+Frontiers in Microbiology; Año: 2018 vol. 9 </p>
+
+<p> GOMEZ, FERNANDO JAVIER; MLEWSKI, ESTELA CECILIA; BOIDI, FLAVIA JAQUELINA; FARIAS, MARIA EUGENIA; GÉRARD, E
+Calcium carbonate precipitation in diatom-rich microbial mats: The laguna negra hypersaline lake, catamarca, Argentina
+JOURNAL OF SEDIMENTARY RESEARCH - (Print); Año: 2018 vol. 88 p. 727 - 742 </p>
 
 ---
 
