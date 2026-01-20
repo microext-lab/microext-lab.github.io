@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Ecología microbiana post-incendios"
 permalink: /linea-postincendios/
 author_profile: true
