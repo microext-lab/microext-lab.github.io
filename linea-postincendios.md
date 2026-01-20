@@ -41,8 +41,7 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 - Evaluar la dinámica de recuperación microbiana en distintos tiempos post-incendio.
 - Relacionar los cambios microbianos con la recuperación de la vegetación y propiedades del suelo.
 
-## Integrantes
----
+## Equipo de trabajo
 
 - ## **Dra. Edith Filippini**
 
