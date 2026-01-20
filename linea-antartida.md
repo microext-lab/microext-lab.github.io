@@ -124,7 +124,9 @@ Cuento además con formación en áreas clínicas y farmacológicas, lo que me p
 
 ## Publicaciones relacionadas
 
-[Agregar publicaciones relevantes]
+<p> FERNÁNDEZ, GUILLERMO; LECOMTE KARINA; VIGNONI PAULA; SOTO RUEDA, ELIANA; CORIA SILVIA; LIRIO JUAN; MLEWSKI ESTELA CECILIA,
+Prokaryotic diversity and biogeochemical characteristics of benthic microbial ecosystems from James Ross Archipelago (West Antarctica)
+POLAR BIOLOGY; Lugar: Berlin; Año: 2022. </p>
 
 ---
 
