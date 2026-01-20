@@ -72,10 +72,6 @@ Esta línea investiga las interacciones entre microorganismos y minerales en amb
   <div>
  <p> <em> Geoólogo. Becario posdoctoral de CONICET </em>.  Un espectro continuo de procesos físico-químicos, microbiológicos y sedimentarios influyen en la formación de depósitos carbonáticos. Mis intereses de investigación incluyen la comprensión a diferentes escalas de estos procesos que pueden ayudar a reconocer y diferenciar las señales físicas, químicas y biológicas dentro del registro sedimentario, permitiendo la comprensión más profunda de las interrelaciones entre la Geósfera y la Biósfera.</p>
 
-<p> <a href="mailto:ragustinmors@gmail.com">
- e-mail: ragustinmors@gmail.com
-</a> </p>
-
 <p>
   <em>Contacto:</em><br>
   <a href="mailto:ragustinmors@gmail.com">
