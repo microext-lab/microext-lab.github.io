@@ -44,10 +44,6 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
 
 ## Integrantes
 
-- ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
-
----
-
 - ## **Dra. Karina Lecomte**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
@@ -55,9 +51,17 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
   <img src="{{ site.baseurl }}/images/Kari.jpg" width="200" style="border-radius: 12px;" alt="Foto de Kari">
 
   <div>
-  <em> Geoóloga. </em> Investigo procesos geoquímicos que ocurren en la superficie terrestre, apuntando a meteorización química en ríos y lagunas. En particular analizo los elementos químicos disueltos y particulados (mayoritarios, trazas, elementos de tierras raras e isótopos), su evolución en el tiempo y distancia y su interacción con los factores que lo rodean en el ambiente.
+  <em> Geoóloga. Investigadora. Docente. </em> 
+<p> Investigo procesos geoquímicos que ocurren en la superficie terrestre, apuntando a meteorización química en ríos y lagunas. En particular analizo los elementos químicos disueltos y particulados (mayoritarios, trazas, elementos de tierras raras e isótopos), su evolución en el tiempo y distancia y su interacción con los factores que lo rodean en el ambiente. </p>
 
-En los últimos años he abordado esta disciplina en sistemas extremos, ya sean drenajes ácidos, sistemas muy fríos o bien lagunas concentradas. Son sistemas muy importantes desde el punto de vista ambiental, ya sea para determinar líneas de base naturales como para predecir futuras contaminaciones.
+<p> En los últimos años he abordado esta disciplina en sistemas extremos, ya sean drenajes ácidos, sistemas muy fríos o bien lagunas concentradas. Son sistemas muy importantes desde el punto de vista ambiental, ya sea para determinar líneas de base naturales como para predecir futuras contaminaciones. </p>
+
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:karina.lecomte@unc.edu.ar">
+    karina.lecomte@unc.edu.ar
+  </a>
+</p>
 
   </div>
 
@@ -100,10 +104,20 @@ Mi tesis se enfocó en la remoción de arsénico mediante cianobacterias, realiz
 
 Cuento además con formación en áreas clínicas y farmacológicas, lo que me permite integrar conceptos de microbiología ambiental y microbiología aplicada a la salud. Me caracterizo por la rigurosidad metodológica, el pensamiento crítico y una fuerte orientación a la investigación científica experimental.
 
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:josefinacasauxc@gmail.com">
+    josefinacasauxc@gmail.com
+  </a>
+</p>
+
   </div>
 
 </div>
 
+----
+
+- ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
 
 
 
