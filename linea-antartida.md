@@ -115,6 +115,7 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
 </div>
 
 ----
+
 - ## **Biól Natalia Domig**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
@@ -135,12 +136,9 @@ Mi trabajo se enfoca en la caracterización de comunidades microbianas de ambien
 </p>
 
   </div>
-
 </div>
 
 ----
-
-
 
 - ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
 
