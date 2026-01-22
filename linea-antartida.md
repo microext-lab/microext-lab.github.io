@@ -98,11 +98,34 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
   <img src="{{ site.baseurl }}/images/JOSE.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Jose">
 
   <div>
-  <em> Biotecnóloga. </em> Cuento con formación experimental en microbiología aplicada. He trabajado en el cultivo y análisis de microorganismos, evaluación de viabilidad celular y control microbiológico en sistemas acuáticos.
+  <em> Biotecnóloga. </em> 
+    <p> Cuento con formación experimental en microbiología aplicada. He trabajado en el cultivo y análisis de microorganismos, evaluación de viabilidad celular y control microbiológico en sistemas acuáticos. </p>
 
-Mi tesis se enfocó en la remoción de arsénico mediante cianobacterias, realizando ensayos de remoción y desorción de este metaloide, análisis de eficiencia del proceso y evaluación de alternativas de desorción con enfoque sustentable y bajo impacto ambiental. Utilicé técnicas de cultivo microbiano, monitoreo de crecimiento, espectrofotometría, ensayos de adsorción y análisis de datos experimentales.
+<p> Mi tesis se enfocó en la remoción de arsénico mediante cianobacterias, realizando ensayos de remoción y desorción de este metaloide, análisis de eficiencia del proceso y evaluación de alternativas de desorción con enfoque sustentable y bajo impacto ambiental. Utilicé técnicas de cultivo microbiano, monitoreo de crecimiento, espectrofotometría, ensayos de adsorción y análisis de datos experimentales. </p>
 
-Cuento además con formación en áreas clínicas y farmacológicas, lo que me permite integrar conceptos de microbiología ambiental y microbiología aplicada a la salud. Me caracterizo por la rigurosidad metodológica, el pensamiento crítico y una fuerte orientación a la investigación científica experimental.
+<p> Cuento además con formación en áreas clínicas y farmacológicas, lo que me permite integrar conceptos de microbiología ambiental y microbiología aplicada a la salud. Me caracterizo por la rigurosidad metodológica, el pensamiento crítico y una fuerte orientación a la investigación científica experimental.</p>
+
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:josefinacasauxc@gmail.com">
+    josefinacasauxc@gmail.com
+  </a>
+</p>
+  </div>
+</div>
+
+----
+- ## **Biól Natalia Domig**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+
+  <img src="{{ site.baseurl }}/images/nati.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Nati">
+
+  <div>
+  <em> Bióloga. Becaria doctoral CONICET (2026) </em> 
+    <p> Mi interés se centra en el estudio de los microorganismos y su relación con las variables hidroquímicas y ambientales de los hábitats que ocupan, abordando su presencia, composición y las estrategias que les permiten sobrevivir en entornos extremos.
+Mi trabajo se enfoca en la caracterización de comunidades microbianas de ambientes extremos, principalmente en lagunas hipersalinas de la Puna (Catamarca) y en lagunas de la Península Antártica. </p>
+<p> Cuento con experiencia en trabajo de laboratorio, análisis bioinformáticos, campañas de campo y análisis de datos ambientales. Además, participo en actividades docentes de grado y posgrado, así como en proyectos de monitoreo ambiental. </p>
 
 <p>
   <em>Contacto:</em><br>
@@ -116,6 +139,8 @@ Cuento además con formación en áreas clínicas y farmacológicas, lo que me p
 </div>
 
 ----
+
+
 
 - ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
 
