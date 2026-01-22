@@ -130,8 +130,8 @@ Mi trabajo se enfoca en la caracterización de comunidades microbianas de ambien
 
 <p>
   <em>Contacto:</em><br>
-  <a href="mailto:josefinacasauxc@gmail.com">
-    josefinacasauxc@gmail.com
+  <a href="mailto:natalia.domig@mi.unc.edu.ar">
+    natalia.domig@mi.unc.edu.ar
   </a>
 </p>
 
