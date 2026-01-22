@@ -116,7 +116,7 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
 
 ----
 
-- ## **Biól Natalia Domig**
+- ## **Biól. Natalia Domig**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
