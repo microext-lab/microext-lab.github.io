@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Geomicrobiología de ambientes hipersalinos"
+title: "Interacciones microbio-mineral y biomineralización"
 permalink: /linea-hipersalinos/
 author_profile: true
 ---
@@ -31,7 +31,7 @@ p {
 <a class="back-link" href="/">← Volver al inicio</a>
 
 <div class="linea-header">
-  <h2>Geomicrobiología de ambientes hipersalinos</h2>
+  <h2>Interacciones microbio-mineral y biomineralización</h2>
   <p><em>Procesos microbianos en lagunas y sistemas salinos</em></p>
 </div>
 
