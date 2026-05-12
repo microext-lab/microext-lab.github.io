@@ -54,6 +54,11 @@ p {
   text-align: justify;
 }
 
+.linea-card {
+  text-decoration: none !important;
+  color: black !important;
+}
+
 .linea-card h3 {
   font-family: 'Georgia', serif;
   font-size: 1.3rem;
@@ -63,9 +68,8 @@ p {
 
 .linea-card p {
   font-family: Arial, sans-serif;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
 }
-</style>
 </style>
 
 
