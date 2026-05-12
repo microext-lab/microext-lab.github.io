@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /
-title: "Grupo de Investigación en Ecología Microbiana de Ambientes Extremos"
 author_profile: true
 show_pagination: false
 redirect_from: 
@@ -72,7 +71,11 @@ p {
 }
 </style>
 
-
+<div style="background-color: #d9ecff; padding: 25px; border-radius: 12px; text-align: center; margin-bottom: 30px;">
+  <h1 style="font-family: Georgia, serif; font-size: 2rem; color: #1a3a5c; margin: 0;">
+    Grupo de Investigación en Ecología Microbiana de Ambientes Extremos
+  </h1>
+</div>
 
 <div class="slider-container">
   <div class="slider-track">
