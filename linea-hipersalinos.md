@@ -21,6 +21,11 @@ author_profile: true
   border-radius: 12px;
   margin-bottom: 30px;
 }
+
+p {
+  text-align: justify;
+}
+
 </style>
 
 <a class="back-link" href="/">← Volver al inicio</a>
@@ -32,7 +37,13 @@ author_profile: true
 
 ## Descripción
 
-Esta línea investiga las interacciones entre microorganismos y minerales en ambientes hipersalinos de la Puna argentina, particularmente en la Laguna Negra y Terma Los Hornos (Catamarca). Buscamos comprender la relación microorganismo–mineral y la señal que esta interacción deja en el registro geológico, con implicancias astrobiológicas.
+Cómo los microorganismos en ambientes extremo, como lagos
+hipersalinos de la Puna y lagos oligotróficos de Patagonia, interactúan con su entorno
+geoquímico, modifican minerales y dejan señales detectables en formaciones
+estromatoliticas, con implicancias ambientales, astrobiológicas y aplicadas.
+Los principales sistemas que estudiamos de manera interdisciplinar son: Laguna Negra,
+Carachipampa, Laguna Verde y Terma los Hornos (Catamarca, Argentina) y lago Strobel con
+sus lagunas asociadas (Patagonia).
 
 ## Objetivos principales
 
