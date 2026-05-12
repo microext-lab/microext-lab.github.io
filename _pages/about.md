@@ -140,8 +140,11 @@ suelos. En colaboración con el Centro de Ecología y Recursos Naturales Renovab
   </a>
 
   <a class="linea-card hipersalinos" href="/linea-hipersalinos/">
-    <h3> Geomicrobiología de ambientes hipersalinos</h3>
-    <p>Procesos microbianos en lagunas y sistemas salinos.</p>
+    <h3> Interacciones microbio-mineral y biomineralización</h3>
+    <p>Identificar microorganismos clave en precipitación de carbonatos. Estudiar la formación de
+fases minerales (calcita, aragonita, vaterita). Evaluar incorporación de elementos (As, etc.).
+Relación biofilm–mineral. Detectar señales biogeoquímicas y minerales. Vincular sistemas
+actuales con registro fósil. Escalar desde micro a macro (célula → estructura)</p>
   </a>
 
   <a class="linea-card antartida" href="/linea-antartida/">
