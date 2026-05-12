@@ -21,6 +21,11 @@ author_profile: true
   border-radius: 12px;
   margin-bottom: 30px;
 }
+
+p {
+  text-align: justify;
+}
+
 </style>
 
 <a class="back-link" href="/">← Volver al inicio</a>
@@ -39,7 +44,9 @@ Esta línea se dedica al estudio de la diversidad microbiológica de matas micro
 - Caracterizar la diversidad de matas microbianas en lagos antárticos
 - Estudiar la dinámica temporal de las comunidades microbianas
 - Identificar indicadores microbianos de cambio climático
-- Comprender las adaptaciones microbianas a condiciones extremas de frío
+- Comprender las adaptaciones microbianas a condiciones extremas
+de falta de luz y a la falta de nutrientes, principalmente en el estudio de la dormancia en
+cianobacterias y algas verdes y la producción de sustancias de reservas como el PHB.
 
 
 ## Equipo de trabajo
