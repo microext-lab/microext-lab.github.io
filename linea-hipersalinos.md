@@ -103,6 +103,31 @@ Esta línea investiga las interacciones entre microorganismos y minerales en amb
 
 </div>
     </div>
+
+---
+- ## **Lic. Josefina Casaux**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+
+  <img src="{{ site.baseurl }}/images/JOSE.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Jose">
+
+  <div>
+  <em> Biotecnóloga. </em> 
+    <p> Cuento con formación experimental en microbiología aplicada. He trabajado en el cultivo y análisis de microorganismos, evaluación de viabilidad celular y control microbiológico en sistemas acuáticos. </p>
+
+<p> Mi tesis se enfocó en la remoción de arsénico mediante cianobacterias, realizando ensayos de remoción y desorción de este metaloide, análisis de eficiencia del proceso y evaluación de alternativas de desorción con enfoque sustentable y bajo impacto ambiental. Utilicé técnicas de cultivo microbiano, monitoreo de crecimiento, espectrofotometría, ensayos de adsorción y análisis de datos experimentales. </p>
+
+<p> Cuento además con formación en áreas clínicas y farmacológicas, lo que me permite integrar conceptos de microbiología ambiental y microbiología aplicada a la salud. Me caracterizo por la rigurosidad metodológica, el pensamiento crítico y una fuerte orientación a la investigación científica experimental.</p>
+
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:josefinacasauxc@gmail.com">
+    josefinacasauxc@gmail.com
+  </a>
+</p>
+  </div>
+</div>
+
 ---------------------
 
 - ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
