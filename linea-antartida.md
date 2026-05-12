@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Ecología microbiana de lagunas de Antártida"
+  title: "Diversidad y función microbiana"
 permalink: /linea-antartida/
 author_profile: true
 ---
@@ -35,7 +35,7 @@ li {
 <a class="back-link" href="/">← Volver al inicio</a>
 
 <div class="linea-header">
-  <h2>Ecología microbiana de lagunas de Antártida</h2>
+  <h2>Diversidad y función microbiana</h2>
   <p><em>Comunidades de matas microbianas en ecosistemas polares</em></p>
 </div>
 
