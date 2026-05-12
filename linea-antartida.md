@@ -1,6 +1,6 @@
 ---
 layout: single
-  title: "Diversidad y funcion microbiana"
+title: "Diversidad y funcion microbiana"
 permalink: /linea-antartida/
 author_profile: true
 ---
