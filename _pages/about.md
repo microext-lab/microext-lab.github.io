@@ -104,8 +104,9 @@ El grupo de investigación se centra en el estudio de las comunidades microbiana
 <div class="lineas-grid">
 
   <a class="linea-card postfuego" href="/linea-postincendios/">
-    <h3> Ecología microbiana post-incendios</h3>
-    <p>Estudio de comunidades edáficas afectadas por fuego.</p>
+    <h3> Respuesta a disturbios y restauración </h3>
+    <p> Dinámica microbiana post-incendio. Costras biológicas y colonización. Rol en recuperación de
+suelos. En colaboración con el Centro de Ecología y Recursos Naturales Renovables "Dr. Ricardo Luti" (CERNAR). </p>
   </a>
 
   <a class="linea-card hipersalinos" href="/linea-hipersalinos/">
