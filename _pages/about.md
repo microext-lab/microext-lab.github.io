@@ -40,6 +40,32 @@ redirect_from:
 p {
   text-align: justify;
 }
+
+<style>
+.slider-container { ... }
+
+.slider-track { ... }
+
+.slider-track img { ... }
+
+@keyframes slide { ... }
+
+p {
+  text-align: justify;
+}
+
+.linea-card h3 {
+  font-family: 'Georgia', serif;
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.linea-card p {
+  font-family: Arial, sans-serif;
+  font-size: 0.95rem;
+}
+</style>
 </style>
 
 
