@@ -36,6 +36,10 @@ redirect_from:
   0%   { transform: translateX(0); }
   100% { transform: translateX(-50%); } /* corre 10 imágenes y engancha el duplicado */
 }
+
+p {
+  text-align: justify;
+}
 </style>
 
 
@@ -115,8 +119,10 @@ suelos. En colaboración con el Centro de Ecología y Recursos Naturales Renovab
   </a>
 
   <a class="linea-card antartida" href="/linea-antartida/">
-    <h3> Ecología microbiana de lagunas de Antártida</h3>
-    <p>Comunidades de matas microbianas en ecosistemas polares.</p>
+    <h3> Diversidad y función microbiana </h3>
+    <p>Caracterizar la diversidad taxonómica y funcional (amplicones, metagenómica). Inferir
+metabolismos (C, S, As, CH₄). Comparar entre sistemas lacustres de Antartida (matas
+microbianas y sedimentos de Antártida), principalmente del archipiélago James Ross.</p>
   </a>
 
 </div>
