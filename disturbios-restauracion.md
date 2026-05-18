@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Ecología microbiana post-incendios"
-permalink: /linea-postincendios/
+permalink: /disturbios-restauracion/
 author_profile: true
 ---
 
@@ -16,10 +16,11 @@ author_profile: true
   color: #333;
 }
 .linea-header {
-  background-color: #ffcc9c;
+  background-color: #b24f35;
   padding: 30px;
   border-radius: 12px;
   margin-bottom: 30px;
+  color: white !important;
 }
 </style>
 
