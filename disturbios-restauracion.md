@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Ecología microbiana post-incendios"
+title: "Respuesta a disturbios y restauración"
 permalink: /disturbios-restauracion/
 author_profile: true
 ---
@@ -60,11 +60,8 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
   <a href="mailto:edithfilippini@unc.edu.ar">
       edithfilippini@unc.edu.ar
   </a>
-</p>
-
-    
+</p>  
   </div>
-
 </div>
 
 ---
@@ -86,9 +83,7 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
       gabriela.garcia@unc.edu.ar
   </a>
 </p>
-
   </div>
-
 </div>
 
 ---
@@ -169,9 +164,7 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
     guillefernandez.unc@gmail.com
   </a>
 </p>
-    
   </div>
-
 </div>
 
 ---
@@ -193,16 +186,8 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
     dargibay@imbiv.unc.edu.ar
   </a>
 </p>
-
-  
   </div>
-
 </div>
-
----
-
-- ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
-
 
 ---
 
