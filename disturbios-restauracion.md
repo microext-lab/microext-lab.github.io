@@ -22,6 +22,15 @@ author_profile: true
   margin-bottom: 30px;
   color: white !important;
 }
+
+p {
+  text-align: justify;
+}
+
+li {
+  text-align: justify;
+}
+
 </style>
 
 <a class="back-link" href="/">← Volver al inicio</a>
