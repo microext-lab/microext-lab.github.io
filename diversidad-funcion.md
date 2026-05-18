@@ -20,6 +20,7 @@ author_profile: true
   padding: 30px;
   border-radius: 12px;
   margin-bottom: 30px;
+  color: white !important;
 }
 
 p {
