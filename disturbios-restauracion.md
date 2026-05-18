@@ -110,25 +110,6 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
 ---
 
-- ## **Biól. Agustina Crucianelli**
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
-  <img src="{{ site.baseurl }}/images/agus.jpg" width="200" style="border-radius: 12px;" alt="Foto de Romi">
-  <div>
-  <em>Bióloga.</em> 
-    <p>Mi tesina se enfocó en entender cómo las biocostras contribuyen a la restauración ecológica de canteras abandonadas. Nos concentramos en describir las comunidades de biocostras y evaluar la efectividad de inoculación y cultivo de estas para la restauración ecológica de una cantera abandonada en las Sierras de Córdoba, Argentina. Actualmente me encuentro haciendo un doctorado en Ciencias de la Ingeniería de Materiales en la Universidad Central de Santiago de Chile.</p>
-
-<p>
-  <em>Contacto:</em><br>
-  <a href="mailto:agustina.crucianelli@mi.unc.edu.ar  ">
-    agustina.crucianelli@mi.unc.edu.ar  
-  </a>
-</p>
-  </div>
-</div>
-
----
-
 - ## **Dra. Romina C. Torres**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
@@ -147,21 +128,18 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 </div>
 
 ---
-
-- ## **Dr. Guillermo C. Fernandez**
+- ## **Biól. Agustina Crucianelli**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
-
-  <img src="{{ site.baseurl }}/images/guille.PNG" width="200" style="border-radius: 12px;" alt="Foto de Guille">
-
+  <img src="{{ site.baseurl }}/images/agus.jpg" width="200" style="border-radius: 12px;" alt="Foto de Agus">
   <div>
-  <em>Biólogo. Investigador. </em> 
-   <p> Mi trabajo tiene como objetivo el estudio de la composición y estructura de matas microbianas de ambientes extremos (Península Antártica) y su relación con los parámetros químicos ambientales como asi también el establecimiento de relaciones causales entre los microorganismos y los procesos biogeoquímicos asociados.</p>
+  <em>Bióloga.</em> 
+    <p>Mi tesina se enfocó en entender cómo las biocostras contribuyen a la restauración ecológica de canteras abandonadas. Nos concentramos en describir las comunidades de biocostras y evaluar la efectividad de inoculación y cultivo de estas para la restauración ecológica de una cantera abandonada en las Sierras de Córdoba, Argentina. Actualmente me encuentro haciendo un doctorado en Ciencias de la Ingeniería de Materiales en la Universidad Central de Santiago de Chile.</p>
 
 <p>
   <em>Contacto:</em><br>
-  <a href="mailto:guillefernandez.unc@gmail.com">
-    guillefernandez.unc@gmail.com
+  <a href="mailto:agustina.crucianelli@mi.unc.edu.ar  ">
+    agustina.crucianelli@mi.unc.edu.ar  
   </a>
 </p>
   </div>
@@ -184,6 +162,27 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
   <em>Contacto:</em><br>
   <a href="mailto:dargibay@imbiv.unc.edu.ar">
     dargibay@imbiv.unc.edu.ar
+  </a>
+</p>
+  </div>
+</div>
+
+---
+
+- ## **Dr. Guillermo C. Fernandez**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+
+  <img src="{{ site.baseurl }}/images/guille.PNG" width="200" style="border-radius: 12px;" alt="Foto de Guille">
+
+  <div>
+  <em>Biólogo. Investigador. </em> 
+   <p> Mi trabajo tiene como objetivo el estudio de la composición y estructura de matas microbianas de ambientes extremos (Península Antártica) y su relación con los parámetros químicos ambientales como asi también el establecimiento de relaciones causales entre los microorganismos y los procesos biogeoquímicos asociados.</p>
+
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:guillefernandez.unc@gmail.com">
+    guillefernandez.unc@gmail.com
   </a>
 </p>
   </div>
