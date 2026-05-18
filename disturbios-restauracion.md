@@ -39,7 +39,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
 
 - Caracterizar las comunidades microbianas del suelo antes y después de incendios.
 - Identificar microorganismos pirófilos o resistentes al fuego.
-- Evaluar la dinámica de recuperación microbiana en distintos tiempos post-incendio.
+- Evaluar la dinámica de recuperación microbiana en distintos tiempos posfuego.
 - Relacionar los cambios microbianos con la recuperación de la vegetación y propiedades del suelo.
 
 ## Equipo de trabajo
@@ -51,7 +51,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
   <img src="{{ site.baseurl }}/images/edith.jpg" width="200" style="border-radius: 12px;" alt="Foto de Edith">
 
   <div>
-  <em>Bióloga. Docente e investigadora.</em> 
+  <em>Bióloga. Docente e investigadora del CERNAR.</em> 
     <p>Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidades según los diferentes usos del suelo. Actualmente me focalizo en las biocostras del Chaco Seco, investigando su composición, patrones de distribución y la relación con los rasgos funcionales de la vegetación.  
   Soy una de las coordinadoras del proyecto “El Bosque Nativo Vuelve. </p>
 
@@ -118,7 +118,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
   <img src="{{ site.baseurl }}/images/gabi.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Gabi">
 
   <div>
-  <em>Geóloga. Docente e investigadora del <a href="[https://www.cicterra.conicet.unc.edu.ar/(https://cicterra.conicet.unc.edu.ar/)" target="_blank">CICTERRA</a>.</em>
+  <em>Geóloga. Docente e investigadora del <a href="https://cicterra.conicet.unc.edu.ar/" target="_blank">CICTERRA</a>.</em>
     <p>Mi campo de investigación es el estudio de las fuentes y transformaciones de elementos en el medio exógeno a distintas escalas espaciales y temporales. Estos estudios permiten comprender los procesos que controlan el transporte y la remoción de elementos en medios acuosos y la formación de depósitos.</p>
   <p>Utilizo técnicas avanzadas de caracterización de geomateriales (XRD, SEM/EDX, EMP, ICP-MS), además de herramientas de luz sincrotrón (XAFS, XRF) y análisis isotópicos. Los procesos observados en el campo son complementados con experimentos de laboratorio y modelado geoquímico.</p>
 
