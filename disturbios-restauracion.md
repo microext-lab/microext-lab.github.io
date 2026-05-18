@@ -51,7 +51,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
   <img src="{{ site.baseurl }}/images/edith.jpg" width="200" style="border-radius: 12px;" alt="Foto de Edith">
 
   <div>
-  <em>Bióloga. Docente e investigadora del CERNAR.</em> 
+<em>Bióloga. Docente e investigadora del <a href="https://fcefyn.unc.edu.ar/facultad/secretarias/investigacion-y-desarrollo/centros/centro-ecologia-y-recursos-naturales-renovables-cernar/" target="_blank">CERNAR</a>.</em>
     <p>Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidades según los diferentes usos del suelo. Actualmente me focalizo en las biocostras del Chaco Seco, investigando su composición, patrones de distribución y la relación con los rasgos funcionales de la vegetación.  
   Soy una de las coordinadoras del proyecto “El Bosque Nativo Vuelve. </p>
 
@@ -66,7 +66,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
 
 ---
 
-- ## **Biól. Mic Gallinger**
+- ### **Biól. Mic Gallinger**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
@@ -87,7 +87,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
 
 ---
 
-- ## **Biól. Daihana Argibay**
+- ### **Biól. Daihana Argibay**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
@@ -111,7 +111,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
 
 ## Colaborando con:
 
-- ## **Dra. Gabriela García**
+- ### **Dra. Gabriela García**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
@@ -133,7 +133,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
 
 ---
 
-- ## **Dra. Romina C. Torres**
+- ### **Dra. Romina C. Torres**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <img src="{{ site.baseurl }}/images/romi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Romi">
@@ -152,7 +152,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
 
 ---
 
-- ## **Dr. Guillermo C. Fernandez**
+- ### **Dr. Guillermo C. Fernandez**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
@@ -173,7 +173,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
 
 ---
 
-- ## **Biól. Agustina Crucianelli**
+- ### **Biól. Agustina Crucianelli**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <img src="{{ site.baseurl }}/images/agus.jpg" width="200" style="border-radius: 12px;" alt="Foto de Agus">
