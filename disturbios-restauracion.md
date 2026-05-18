@@ -138,7 +138,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <img src="{{ site.baseurl }}/images/romi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Romi">
   <div>
-  <em>Bióloga. Docente e investigadora.</em> 
+<em>Bióloga. Docente e investigadora del <a href="https://fcefyn.unc.edu.ar/facultad/secretarias/investigacion-y-desarrollo/centros/centro-ecologia-y-recursos-naturales-renovables-cernar/" target="_blank">CERNAR</a>.</em>
     <p>Me interesa particularmente el estudio de los procesos de regeneración de especies leñosas y la respuesta de la flora a distintos disturbios. También participo en proyectos de extensión y educación ambiental.</p>
 
 <p>
