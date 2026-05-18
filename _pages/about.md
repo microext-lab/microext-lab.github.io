@@ -43,7 +43,7 @@ p {
 
 .linea-card {
   text-decoration: none !important;
-  color: black !important;
+  color: white !important;
 }
 
 .linea-card h3 {
