@@ -7,8 +7,8 @@ title: " "
 redirect_from: 
 - /about/
 - /about.html
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
 ---
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
 
 <style>
 .slider-container {
