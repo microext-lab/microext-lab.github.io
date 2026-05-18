@@ -55,52 +55,6 @@ cianobacterias y algas verdes y la producción de sustancias de reservas como el
 
 ## Equipo de trabajo
 
-- ## **Dra. Karina Lecomte**
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
-
-  <img src="{{ site.baseurl }}/images/Kari.jpg" width="200" style="border-radius: 12px;" alt="Foto de Kari">
-
-  <div>
-  <em> Geoóloga. Investigadora. Docente. </em> 
-<p> Investigo procesos geoquímicos que ocurren en la superficie terrestre, apuntando a meteorización química en ríos y lagunas. En particular analizo los elementos químicos disueltos y particulados (mayoritarios, trazas, elementos de tierras raras e isótopos), su evolución en el tiempo y distancia y su interacción con los factores que lo rodean en el ambiente. </p>
-
-<p> En los últimos años he abordado esta disciplina en sistemas extremos, ya sean drenajes ácidos, sistemas muy fríos o bien lagunas concentradas. Son sistemas muy importantes desde el punto de vista ambiental, ya sea para determinar líneas de base naturales como para predecir futuras contaminaciones. </p>
-
-<p>
-  <em>Contacto:</em><br>
-  <a href="mailto:karina.lecomte@unc.edu.ar">
-    karina.lecomte@unc.edu.ar
-  </a>
-</p>
-
-  </div>
-
-</div>
-
----
-
-- ## **Dr. Guillermo C. Fernandez**
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
-
-  <img src="{{ site.baseurl }}/images/guille.PNG" width="200" style="border-radius: 12px;" alt="Foto de Guille">
-
-  <div>
-  <em>Biólogo. Investigador. </em> 
-   <p> Mi trabajo tiene como objetivo el estudio de la composición y estructura de matas microbianas de ambientes extremos (Península Antártica) y su relación con los parámetros químicos ambientales como asi también el establecimiento de relaciones causales entre los microorganismos y los procesos biogeoquímicos asociados.</p>
-
-<p>
-  <em>Contacto:</em><br>
-  <a href="mailto:guillefernandez.unc@gmail.com">
-    guillefernandez.unc@gmail.com
-  </a>
-</p>
-  </div>
-
-</div>
-----
-
 - ## **Biól. Natalia Domig**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
@@ -125,9 +79,31 @@ Mi trabajo se enfoca en la caracterización de comunidades microbianas de ambien
 
 ----
 
+
+- ## **Dra. Karina Lecomte**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+
+  <img src="{{ site.baseurl }}/images/Kari.jpg" width="200" style="border-radius: 12px;" alt="Foto de Kari">
+
+  <div>
+  <em> Geoóloga. Investigadora CICTERRA. Docente. </em> 
+<p> Investigo procesos geoquímicos que ocurren en la superficie terrestre, apuntando a meteorización química en ríos y lagunas. En particular analizo los elementos químicos disueltos y particulados (mayoritarios, trazas, elementos de tierras raras e isótopos), su evolución en el tiempo y distancia y su interacción con los factores que lo rodean en el ambiente. </p>
+
+<p> En los últimos años he abordado esta disciplina en sistemas extremos, ya sean drenajes ácidos, sistemas muy fríos o bien lagunas concentradas. Son sistemas muy importantes desde el punto de vista ambiental, ya sea para determinar líneas de base naturales como para predecir futuras contaminaciones. </p>
+
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:karina.lecomte@unc.edu.ar">
+    karina.lecomte@unc.edu.ar
+  </a>
+</p>
+
+  </div>
+</div>
+---
+
 - ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
-
-
 
 
 ## Publicaciones relacionadas
