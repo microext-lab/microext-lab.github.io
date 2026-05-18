@@ -3,6 +3,7 @@ layout: single
 permalink: /
 author_profile: true
 show_pagination: false
+title: " "
 redirect_from: 
   - /about/
   - /about.html
