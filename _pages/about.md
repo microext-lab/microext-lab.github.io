@@ -138,7 +138,7 @@ Relación biofilm–mineral. Detectar señales biogeoquímicas y minerales. Vinc
 actuales con registro fósil. Escalar desde micro a macro (célula → estructura)</p>
   </a>
 
-  <a class="linea-card antartida" href="/linea-antartida/">
+  <a class="linea-card antartida" href="/diversidad-funcion/">
     <h3> Diversidad y función microbiana </h3>
     <p>Caracterizar la diversidad taxonómica y funcional (amplicones, metagenómica). Inferir
 metabolismos (C, S, As, CH₄). Comparar entre sistemas lacustres de Antartida (matas
