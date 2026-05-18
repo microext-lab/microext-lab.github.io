@@ -103,7 +103,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
   <img src="{{ site.baseurl }}/images/dai.jpg" width="200" style="border-radius: 12px;" alt="Foto de Dai">
 
   <div>
-  <em>Bióloga. Mg. en Desarrollo y Ambiente. Estudiante del Doctorado en Geomática y Sistemas Espaciales (Inst. Gulich, CONAE-UNC). CPA Profesional Asistente (IMBIV-CONICET). </em>
+<em>Bióloga. Mg. en Desarrollo y Ambiente. Estudiante del Doctorado en Geomática y Sistemas Espaciales del (<a href="https://ig.conae.unc.edu.ar/" target="_blank">Inst. Gulich, CONAE-UNC</a>). CPA Profesional Asistente (IMBIV-CONICET).</em>
 <p>Participo en proyectos de investigación en ecología del fuego y regímenes de incendio. Trabajo con sistemas de información geográfica, imágenes espaciales y cartografía.</p>
 
 
