@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 <style>
 .slider-container {
   width: 100%;
@@ -21,33 +20,20 @@ redirect_from:
 
 .slider-track {
   display: flex;
-  width: calc(200%); /* duplicado para loop perfecto */
+  width: calc(200%);
   animation: slide 30s linear infinite;
 }
 
 .slider-track img {
-  width: 10%;   /* 10 imágenes → cada una ocupa 10% */
+  width: 10%;
   height: 350px;
   object-fit: cover;
 }
 
 @keyframes slide {
   0%   { transform: translateX(0); }
-  100% { transform: translateX(-50%); } /* corre 10 imágenes y engancha el duplicado */
+  100% { transform: translateX(-50%); }
 }
-
-p {
-  text-align: justify;
-}
-
-<style>
-.slider-container { ... }
-
-.slider-track { ... }
-
-.slider-track img { ... }
-
-@keyframes slide { ... }
 
 p {
   text-align: justify;
@@ -71,9 +57,7 @@ p {
 }
 </style>
 
-<h1 style="font-family: Georgia, serif; font-size: 2rem; text-align: center; border-bottom: 3px solid #5a9fd4; padding-bottom: 10px; color: #2c3e50;">
-  Grupo de Investigación en Ecología Microbiana de Ambientes Extremos
-</h1>
+<img src="/images/titulo.png" style="width: 100%; border-radius: 8px; margin-bottom: 30px;">
 
 <div class="slider-container">
   <div class="slider-track">
