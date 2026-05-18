@@ -93,12 +93,51 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
 ---
 
-- ## **Dra. Romina C. Torres**
+- ## **Biól. Mic Gallinger**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
-  <img src="{{ site.baseurl }}/images/romi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Romi">
+  <img src="{{ site.baseurl }}/images/mic.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Mic">
 
+  <div>
+  <em>Biólogx. Becarix doctoral CONICET. </em> 
+  <p>Me interesa el impacto del fuego en la dinámica de las comunidades de microorganismos de los suelos de nuestras sierras cordobesas. Mi tesis de grado se enfocó en el estudio (cultivo y análisis mediante técnicas de secuenciación de ADN) de las cianobacterias edáficas de suelos incendiados. </p>
+    
+ <p>
+  <em>Contacto:</em><br>
+  <a href="mailto:micaelagallinger@mi.unc.edu.ar">
+    micaelagallinger@mi.unc.edu.ar
+  </a>
+</p>
+  
+  </div>
+</div>
+
+---
+
+- ## **Biól. Agustina Crucianelli**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+  <img src="{{ site.baseurl }}/images/agus.jpg" width="200" style="border-radius: 12px;" alt="Foto de Romi">
+  <div>
+  <em>Bióloga.</em> 
+    <p>Mi tesina se enfocó en entender cómo las biocostras contribuyen a la restauración ecológica de canteras abandonadas. Nos concentramos en describir las comunidades de biocostras y evaluar la efectividad de inoculación y cultivo de estas para la restauración ecológica de una cantera abandonada en las Sierras de Córdoba, Argentina. Actualmente me encuentro haciendo un doctorado en Ciencias de la Ingeniería de Materiales en la Universidad Central de Santiago de Chile.</p>
+
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:agustina.crucianelli@mi.unc.edu.ar  ">
+    agustina.crucianelli@mi.unc.edu.ar  
+  </a>
+</p>
+  </div>
+</div>
+
+---
+
+- ## **Dra. Romina C. Torres**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+  <img src="{{ site.baseurl }}/images/romi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Romi">
   <div>
   <em>Bióloga. Docente e investigadora.</em> 
     <p>Me interesa particularmente el estudio de los procesos de regeneración de especies leñosas y la respuesta de la flora a distintos disturbios. También participo en proyectos de extensión y educación ambiental.</p>
@@ -109,10 +148,7 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
     romy.ce2008@gmail.com 
   </a>
 </p>
-
-  
   </div>
-
 </div>
 
 ---
@@ -161,28 +197,6 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
   
   </div>
 
-</div>
-
----
-
-- ## **Biól. Mic Gallinger**
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
-
-  <img src="{{ site.baseurl }}/images/mic.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Mic">
-
-  <div>
-  <em>Biólogx. Becarix doctoral CONICET. </em> 
-  <p>Me interesa el impacto del fuego en la dinámica de las comunidades de microorganismos de los suelos de nuestras sierras cordobesas. Mi tesis de grado se enfocó en el estudio (cultivo y análisis mediante técnicas de secuenciación de ADN) de las cianobacterias edáficas de suelos incendiados. </p>
-    
- <p>
-  <em>Contacto:</em><br>
-  <a href="mailto:micaelagallinger@mi.unc.edu.ar">
-    micaelagallinger@mi.unc.edu.ar
-  </a>
-</p>
-  
-  </div>
 </div>
 
 ---
