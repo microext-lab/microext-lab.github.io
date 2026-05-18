@@ -117,9 +117,9 @@ El grupo de investigación se centra en el estudio de las comunidades microbiana
 }
 
 /* Colores personalizados */
-.postfuego    { background-color: #c8eef1; }  /* celeste muy claro */
-.hipersalinos { background-color: #a8dde2; }  /* celeste medio */
-.antartida    { background-color: #7fccd2; }  /* celeste más saturado */
+.postfuego    { background-color: #b24f35; }
+.hipersalinos { background-color: #508552; }
+.antartida    { background-color: #258693; }
 </style>
 
 <div class="lineas-grid">
