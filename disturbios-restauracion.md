@@ -37,7 +37,7 @@ li {
 
 <div class="linea-header">
   <h2>Respuesta a disturbios y restauración</h2>
-  <p><em>Estudio de comunidades edáficas afectadas por fuego</em></p>
+  <p><em>Estudio de comunidades microbianas edáficas afectadas por disturbios</em></p>
 </div>
 
 ## Descripción
