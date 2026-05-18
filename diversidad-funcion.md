@@ -106,9 +106,6 @@ Mi trabajo se enfoca en la caracterización de comunidades microbianas de ambien
 </div>
 ---
 
-- ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
-
-
 ## Publicaciones relacionadas
 
 <p> FERNÁNDEZ, GUILLERMO; LECOMTE KARINA; VIGNONI PAULA; SOTO RUEDA, ELIANA; CORIA SILVIA; LIRIO JUAN; MLEWSKI ESTELA CECILIA,
