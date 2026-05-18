@@ -44,7 +44,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
 
 ## Equipo de trabajo
 
-- ## **Dra. Edith Filippini**
+- ### **Dra. Edith Filippini**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
