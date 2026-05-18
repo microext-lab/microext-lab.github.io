@@ -16,7 +16,7 @@ author_profile: true
   color: #333;
 }
 .linea-header {
-  background-color: #d9ecff;
+  background-color: #258693;
   padding: 30px;
   border-radius: 12px;
   margin-bottom: 30px;
