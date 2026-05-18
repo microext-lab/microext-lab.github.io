@@ -7,6 +7,7 @@ title: " "
 redirect_from: 
   - /about/
   - /about.html
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
 ---
 
 <style>
@@ -46,14 +47,14 @@ p {
 }
 
 .linea-card h3 {
-  font-family: 'Georgia', serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: 1.3rem;
-  font-weight: bold;
+  font-weight: 700;
   margin-bottom: 8px;
 }
 
 .linea-card p {
-  font-family: Arial, sans-serif;
+  font-family: 'DM Sans', sans-serif;
   font-size: 0.85rem;
 }
 </style>
