@@ -42,7 +42,9 @@ li {
 
 ## Descripción
 
-Esta línea se dedica al estudio de la diversidad microbiológica de matas microbianas asociadas a lagos del archipiélago James Ross, Antártida. Investigamos la dinámica de estas comunidades y la importancia de ciertos grupos como posibles proxies relacionados al cambio climático.
+Esta línea se dedica al estudio de la diversidad microbiológica de matas microbianas asociadas a lagos del archipiélago James Ross, Antártida. Investigamos la dinámica de estas comunidades y la importancia de ciertos grupos como posibles proxies relacionados al cambio climático. Esta área la desarrollamos en conjunto con la investigadora Karina Lecomte del Centro de investigaciones en ciencias de la tierra (CICTERRA-UNC).
+
+
 
 ## Objetivos principales
 
@@ -54,7 +56,7 @@ de falta de luz y a la falta de nutrientes, principalmente en el estudio de la d
 cianobacterias y algas verdes y la producción de sustancias de reservas como el PHB.
 
 
-## Equipo de trabajo
+## Equipo de trabajo:
 
 - ## **Biól. Natalia Domig**
 
@@ -79,7 +81,7 @@ Mi trabajo se enfoca en la caracterización de comunidades microbianas de ambien
 </div>
 
 ----
-
+## Colaborando con:
 
 - ## **Dra. Karina Lecomte**
 
