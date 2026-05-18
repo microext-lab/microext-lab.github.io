@@ -118,7 +118,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
   <img src="{{ site.baseurl }}/images/gabi.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Gabi">
 
   <div>
-  <em>Geóloga. Docente e investigadora del <a href="https://www.cicterra.conicet.unc.edu.ar/" target="_blank">CICTERRA</a>.</em>
+  <em>Geóloga. Docente e investigadora del <a href="[https://www.cicterra.conicet.unc.edu.ar/(https://cicterra.conicet.unc.edu.ar/)" target="_blank">CICTERRA</a>.</em>
     <p>Mi campo de investigación es el estudio de las fuentes y transformaciones de elementos en el medio exógeno a distintas escalas espaciales y temporales. Estos estudios permiten comprender los procesos que controlan el transporte y la remoción de elementos en medios acuosos y la formación de depósitos.</p>
   <p>Utilizo técnicas avanzadas de caracterización de geomateriales (XRD, SEM/EDX, EMP, ICP-MS), además de herramientas de luz sincrotrón (XAFS, XRF) y análisis isotópicos. Los procesos observados en el campo son complementados con experimentos de laboratorio y modelado geoquímico.</p>
 
