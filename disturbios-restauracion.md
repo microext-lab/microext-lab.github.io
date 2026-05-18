@@ -33,7 +33,7 @@ author_profile: true
 
 ## Descripción
 
-Esta línea de investigación se enfoca en comprender cómo los incendios forestales afectan las comunidades microbianas del suelo en el Bosque Serrano de Córdoba. Estudiamos la dinámica de recuperación microbiana, la detección de posibles microorganismos pirófilos y los cambios en la estructura y función de las comunidades edáficas post-fuego.
+Esta línea de investigación estudia cómo se ve afectada la dinámica microbiana posfuego. También analizamos las costras biológicas, su colonización post-disturbio, y su rol en recuperación de suelos. En colaboración con el Centro de Ecología y Recursos Naturales Renovables "Dr. Ricardo Luti"
 
 ## Objetivos principales
 
@@ -66,28 +66,6 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
 ---
 
-- ## **Dra. Gabriela García**
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
-
-  <img src="{{ site.baseurl }}/images/gabi.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Gabi">
-
-  <div>
-  <em>Geóloga. Docente e investigadora.</em> 
-    <p>Mi campo de investigación es el estudio de las fuentes y transformaciones de elementos en el medio exógeno a distintas escalas espaciales y temporales. Estos estudios permiten comprender los procesos que controlan el transporte y la remoción de elementos en medios acuosos y la formación de depósitos.</p>
-  <p>Utilizo técnicas avanzadas de caracterización de geomateriales (XRD, SEM/EDX, EMP, ICP-MS), además de herramientas de luz sincrotrón (XAFS, XRF) y análisis isotópicos. Los procesos observados en el campo son complementados con experimentos de laboratorio y modelado geoquímico.</p>
-
-<p>
-  <em>Contacto:</em><br>
-  <a href="mailto:  gabriela.garcia@unc.edu.ar">
-      gabriela.garcia@unc.edu.ar
-  </a>
-</p>
-  </div>
-</div>
-
----
-
 - ## **Biól. Mic Gallinger**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
@@ -102,44 +80,6 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
   <em>Contacto:</em><br>
   <a href="mailto:micaelagallinger@mi.unc.edu.ar">
     micaelagallinger@mi.unc.edu.ar
-  </a>
-</p>
-  
-  </div>
-</div>
-
----
-
-- ## **Dra. Romina C. Torres**
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
-  <img src="{{ site.baseurl }}/images/romi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Romi">
-  <div>
-  <em>Bióloga. Docente e investigadora.</em> 
-    <p>Me interesa particularmente el estudio de los procesos de regeneración de especies leñosas y la respuesta de la flora a distintos disturbios. También participo en proyectos de extensión y educación ambiental.</p>
-
-<p>
-  <em>Contacto:</em><br>
-  <a href="mailto:romy.ce2008@gmail.com ">
-    romy.ce2008@gmail.com 
-  </a>
-</p>
-  </div>
-</div>
-
----
-- ## **Biól. Agustina Crucianelli**
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
-  <img src="{{ site.baseurl }}/images/agus.jpg" width="200" style="border-radius: 12px;" alt="Foto de Agus">
-  <div>
-  <em>Bióloga.</em> 
-    <p>Mi tesina se enfocó en entender cómo las biocostras contribuyen a la restauración ecológica de canteras abandonadas. Nos concentramos en describir las comunidades de biocostras y evaluar la efectividad de inoculación y cultivo de estas para la restauración ecológica de una cantera abandonada en las Sierras de Córdoba, Argentina. Actualmente me encuentro haciendo un doctorado en Ciencias de la Ingeniería de Materiales en la Universidad Central de Santiago de Chile.</p>
-
-<p>
-  <em>Contacto:</em><br>
-  <a href="mailto:agustina.crucianelli@mi.unc.edu.ar  ">
-    agustina.crucianelli@mi.unc.edu.ar  
   </a>
 </p>
   </div>
@@ -169,6 +109,49 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 
 ---
 
+## Colaborando con:
+
+- ## **Dra. Gabriela García**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+
+  <img src="{{ site.baseurl }}/images/gabi.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Gabi">
+
+  <div>
+  <em>Geóloga. Docente e investigadora del <a href="https://www.cicterra.conicet.unc.edu.ar/" target="_blank">CICTERRA</a>.</em>
+    <p>Mi campo de investigación es el estudio de las fuentes y transformaciones de elementos en el medio exógeno a distintas escalas espaciales y temporales. Estos estudios permiten comprender los procesos que controlan el transporte y la remoción de elementos en medios acuosos y la formación de depósitos.</p>
+  <p>Utilizo técnicas avanzadas de caracterización de geomateriales (XRD, SEM/EDX, EMP, ICP-MS), además de herramientas de luz sincrotrón (XAFS, XRF) y análisis isotópicos. Los procesos observados en el campo son complementados con experimentos de laboratorio y modelado geoquímico.</p>
+
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:  gabriela.garcia@unc.edu.ar">
+      gabriela.garcia@unc.edu.ar
+  </a>
+</p>
+  </div>
+</div>
+
+---
+
+- ## **Dra. Romina C. Torres**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+  <img src="{{ site.baseurl }}/images/romi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Romi">
+  <div>
+  <em>Bióloga. Docente e investigadora.</em> 
+    <p>Me interesa particularmente el estudio de los procesos de regeneración de especies leñosas y la respuesta de la flora a distintos disturbios. También participo en proyectos de extensión y educación ambiental.</p>
+
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:romy.ce2008@gmail.com ">
+    romy.ce2008@gmail.com 
+  </a>
+</p>
+  </div>
+</div>
+
+---
+
 - ## **Dr. Guillermo C. Fernandez**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
@@ -189,5 +172,25 @@ Esta línea de investigación se enfoca en comprender cómo los incendios forest
 </div>
 
 ---
+
+- ## **Biól. Agustina Crucianelli**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+  <img src="{{ site.baseurl }}/images/agus.jpg" width="200" style="border-radius: 12px;" alt="Foto de Agus">
+  <div>
+  <em>Bióloga.</em> 
+    <p>Mi tesina se enfocó en entender cómo las biocostras contribuyen a la restauración ecológica de canteras abandonadas. Nos concentramos en describir las comunidades de biocostras y evaluar la efectividad de inoculación y cultivo de estas para la restauración ecológica de una cantera abandonada en las Sierras de Córdoba, Argentina. Actualmente me encuentro haciendo un doctorado en Ciencias de la Ingeniería de Materiales en la Universidad Central de Santiago de Chile.</p>
+
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:agustina.crucianelli@mi.unc.edu.ar  ">
+    agustina.crucianelli@mi.unc.edu.ar  
+  </a>
+</p>
+  </div>
+</div>
+
+---
+
 
 <a class="back-link" href="/">← Volver al inicio</a>
