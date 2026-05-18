@@ -27,7 +27,7 @@ author_profile: true
 <a class="back-link" href="/">← Volver al inicio</a>
 
 <div class="linea-header">
-  <h2>Ecología microbiana post-incendios</h2>
+  <h2>Respuesta a disturbios y restauración</h2>
   <p><em>Estudio de comunidades edáficas afectadas por fuego</em></p>
 </div>
 
