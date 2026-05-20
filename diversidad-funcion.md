@@ -62,10 +62,10 @@ cianobacterias y algas verdes y la producción de sustancias de reservas como el
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
-  <img src="{{ site.baseurl }}/images/nati.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Nati">
+  <img src="{{ site.baseurl }}/images/nati.jpg" width="200" style="border-radius: 12px;" alt="Foto de Nati">
 
   <div>
-  <em> Bióloga. Becaria doctoral CONICET (2026) </em> 
+  <em> Bióloga. Becaria doctoral CONICET (2026) en el </em> 
     <p> Mi interés se centra en el estudio de los microorganismos y su relación con las variables hidroquímicas y ambientales de los hábitats que ocupan, abordando su presencia, composición y las estrategias que les permiten sobrevivir en entornos extremos.
 Mi trabajo se enfoca en la caracterización de comunidades microbianas de ambientes extremos, principalmente en lagunas hipersalinas de la Puna (Catamarca) y en lagunas de la Península Antártica. </p>
 <p> Cuento con experiencia en trabajo de laboratorio, análisis bioinformáticos, campañas de campo y análisis de datos ambientales. Además, participo en actividades docentes de grado y posgrado, así como en proyectos de monitoreo ambiental. </p>
