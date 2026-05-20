@@ -130,12 +130,13 @@ El grupo de investigación se centra en el estudio de las comunidades microbiana
 suelos. En colaboración con el Centro de Ecología y Recursos Naturales Renovables "Dr. Ricardo Luti" (CERNAR). </p>
   </a>
 
-  <a class="linea-card hipersalinos" href="/linea-hipersalinos/">
+  <a class="linea-card hipersalinos" href="/biomineralizacion/">
     <h3> Interacciones microbio-mineral y biomineralización</h3>
     <p>Identificar microorganismos clave en precipitación de carbonatos. Estudiar la formación de
 fases minerales (calcita, aragonita, vaterita). Evaluar incorporación de elementos (As, etc.).
 Relación biofilm–mineral. Detectar señales biogeoquímicas y minerales. Vincular sistemas
-actuales con registro fósil. Escalar desde micro a macro (célula → estructura)</p>
+actuales con registro fósil. Escalar desde micro a macro (célula → estructura). Esta línea de investigación
+está desarrollada en conjunto con Fernando Gómez del CICTERRA - UNC.</p>
   </a>
 
   <a class="linea-card antartida" href="/diversidad-funcion/">
