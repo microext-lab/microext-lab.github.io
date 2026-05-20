@@ -54,10 +54,32 @@ sus lagunas asociadas (Patagonia).
 
 ## Equipo de trabajo
 
-- ## **Dr. Fernando J. Gomez**
+- ### **Lic. Josefina Casaux**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+  <img src="{{ site.baseurl }}/images/JOSE.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Jose">
+  <div>
+  <em> Biotecnóloga. </em> 
+<p> Mi tesis se enfocó en la remoción de arsénico mediante cianobacterias, realizando ensayos de remoción y desorción de este metaloide, análisis de eficiencia del proceso y evaluación de alternativas de desorción con enfoque sustentable y bajo impacto ambiental. Utilicé técnicas de cultivo microbiano, monitoreo de crecimiento, espectrofotometría, ensayos de adsorción y análisis de datos experimentales. </p>
+    <p> Cuento con formación experimental en microbiología aplicada. He trabajado en el cultivo y análisis de microorganismos, evaluación de viabilidad celular y control microbiológico en sistemas acuáticos. </p>
+<p> Además tengo formación en áreas clínicas y farmacológicas, lo que me permite integrar conceptos de microbiología ambiental y microbiología aplicada a la salud. Me caracterizo por la rigurosidad metodológica, el pensamiento crítico y una fuerte orientación a la investigación científica experimental.</p>
 
+<p>
+  <em>Contacto:</em><br>
+  <a href="mailto:josefinacasauxc@gmail.com">
+    josefinacasauxc@gmail.com
+  </a>
+</p>
+  </div>
+</div>
+
+---
+
+##**Colaborando con...**
+
+- ### **Dr. Fernando J. Gomez**
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <img src="{{ site.baseurl }}/images/fer.png" width="200" style="border-radius: 12px;" alt="Foto de Fer">
 
   <div>
@@ -70,11 +92,11 @@ sus lagunas asociadas (Patagonia).
     fjgomez@unc.edu.ar
   </a>
 </p>
-
 </div>
   </div>
 
-- ## **Dr. Agustín R. Mors**
+---
+- ### **Dr. Agustín R. Mors**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
@@ -93,8 +115,8 @@ sus lagunas asociadas (Patagonia).
 </div>
   </div>
 
-
-- ## **Geól. Emiliano Rivarola**
+---
+- ### **Geól. Emiliano Rivarola**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
@@ -115,36 +137,7 @@ sus lagunas asociadas (Patagonia).
 </div>
     </div>
 
----
-- ## **Lic. Josefina Casaux**
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
-
-  <img src="{{ site.baseurl }}/images/JOSE.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Jose">
-
-  <div>
-  <em> Biotecnóloga. </em> 
-    <p> Cuento con formación experimental en microbiología aplicada. He trabajado en el cultivo y análisis de microorganismos, evaluación de viabilidad celular y control microbiológico en sistemas acuáticos. </p>
-
-<p> Mi tesis se enfocó en la remoción de arsénico mediante cianobacterias, realizando ensayos de remoción y desorción de este metaloide, análisis de eficiencia del proceso y evaluación de alternativas de desorción con enfoque sustentable y bajo impacto ambiental. Utilicé técnicas de cultivo microbiano, monitoreo de crecimiento, espectrofotometría, ensayos de adsorción y análisis de datos experimentales. </p>
-
-<p> Cuento además con formación en áreas clínicas y farmacológicas, lo que me permite integrar conceptos de microbiología ambiental y microbiología aplicada a la salud. Me caracterizo por la rigurosidad metodológica, el pensamiento crítico y una fuerte orientación a la investigación científica experimental.</p>
-
-<p>
-  <em>Contacto:</em><br>
-  <a href="mailto:josefinacasauxc@gmail.com">
-    josefinacasauxc@gmail.com
-  </a>
-</p>
-  </div>
-</div>
-
 ---------------------
-
-- ## <a href="/#cecilia">Dra. Cecilia E. Mlewski</a> (Coordinadora)
-
----
-
 
 ## Publicaciones relacionadas
 
