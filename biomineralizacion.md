@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Interacciones microbio-mineral y biomineralización"
-permalink: /linea-hipersalinos/
+permalink: /biomineralizacion/
 author_profile: true
 ---
 
