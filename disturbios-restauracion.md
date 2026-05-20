@@ -164,11 +164,9 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
 - ### **Dr. Guillermo C. Fernandez**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
-
   <img src="{{ site.baseurl }}/images/guille.PNG" width="200" style="border-radius: 12px;" alt="Foto de Guille">
-
   <div>
-  <em>Biólogo. Investigador. </em> 
+<em>Biólogo. Investigador en la <a href="https://cayetano.edu.pe/" target="_blank">Universidad Peruana Cayetano Heredia</a>. Docente.</em>
    <p> Mi trabajo tiene como objetivo el estudio de la composición y estructura de matas microbianas de ambientes extremos (Península Antártica) y su relación con los parámetros químicos ambientales como asi también el establecimiento de relaciones causales entre los microorganismos y los procesos biogeoquímicos asociados.</p>
 
 <p>
@@ -181,6 +179,8 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
 </div>
 
 ---
+
+## **Estudiantes graduados**
 
 - ### **Biól. Agustina Crucianelli**
 
