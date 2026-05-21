@@ -58,7 +58,7 @@ cianobacterias y algas verdes y la producción de sustancias de reservas como el
 
 ## Equipo de trabajo:
 
-- ## **Biól. Natalia Domig**
+- ### **Biól. Natalia Domig**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
@@ -83,7 +83,7 @@ Mi trabajo se enfoca en la caracterización de comunidades microbianas de ambien
 ----
 ## Colaborando con:
 
-- ## **Dra. Karina Lecomte**
+- ### **Dra. Karina Lecomte**
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
 
