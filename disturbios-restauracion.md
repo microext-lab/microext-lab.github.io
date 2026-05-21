@@ -188,7 +188,8 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
   <img src="{{ site.baseurl }}/images/agus.jpg" width="200" style="border-radius: 12px;" alt="Foto de Agus">
   <div>
   <em>Bióloga.</em> 
-    <p>Mi tesina se enfocó en entender cómo las biocostras contribuyen a la restauración ecológica de canteras abandonadas. Nos concentramos en describir las comunidades de biocostras y evaluar la efectividad de inoculación y cultivo de estas para la restauración ecológica de una cantera abandonada en las Sierras de Córdoba, Argentina. Actualmente me encuentro haciendo un doctorado en Ciencias de la Ingeniería de Materiales en la Universidad Central de Santiago de Chile.</p>
+    <p>Mi tesina se enfocó en entender cómo las biocostras contribuyen a la restauración ecológica de canteras abandonadas. Nos concentramos en describir las comunidades de biocostras y evaluar la efectividad de inoculación y cultivo de estas para la restauración ecológica de una cantera abandonada en las Sierras de Córdoba, Argentina.
+<p>Actualmente me encuentro haciendo un doctorado en Ciencias de la Ingeniería de Materiales en la <a href="https://ciimat.ucentral.cl/doctorado/" target="_blank">Universidad Central de Santiago de Chile</a>.</p>
 
 <p>
   <em>Contacto:</em><br>
