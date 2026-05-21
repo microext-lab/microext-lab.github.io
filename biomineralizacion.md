@@ -104,8 +104,8 @@ sus lagunas asociadas (Patagonia).
   <img src="{{ site.baseurl }}/images/agustinmors.jpg" width="200" style="border-radius: 12px;" alt="Foto de Agustin">
 
   <div>
- <p> <em> Geoólogo. Investigador asistente CONICET </em>.  Un espectro continuo de procesos físico-químicos, microbiológicos y sedimentarios influyen en la formación de depósitos carbonáticos. Mis intereses de investigación incluyen la comprensión a diferentes escalas de estos procesos que pueden ayudar a reconocer y diferenciar las señales físicas, químicas y biológicas dentro del registro sedimentario, permitiendo la comprensión más profunda de las interrelaciones entre la Geósfera y la Biósfera.</p>
-
+<em> Geoólogo. Investigador asistente CONICET </em>.  
+     <p> Un espectro continuo de procesos físico-químicos, microbiológicos y sedimentarios influyen en la formación de depósitos carbonáticos. Mis intereses de investigación incluyen la comprensión a diferentes escalas de estos procesos que pueden ayudar a reconocer y diferenciar las señales físicas, químicas y biológicas dentro del registro sedimentario, permitiendo la comprensión más profunda de las interrelaciones entre la Geósfera y la Biósfera.</p>
 <p>
   <em>Contacto:</em><br>
   <a href="mailto:ragustinmors@gmail.com">
@@ -124,9 +124,9 @@ sus lagunas asociadas (Patagonia).
   <img src="{{ site.baseurl }}/images/emi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Emi">
 
   <div>
- <p> <em> Geoólogo. Becario doctoral CONICET en el <a href="https://cicterra.conicet.unc.edu.ar/" target="_blank">CICTERRA</a>. </em> Mi tesis doctoral titulada “Estudio sedimentológico, geomicrobiológico y geoquímico de depósitos carbonáticos modernos y Holocenos del Lago Strobel: implicancias ambientales, paleoclimáticas y astrobiológicas” está en el marco del proyecto PIP: “Estudio integrado sedimentológico, geomicrobiológico y biogeoquímico de carbonatos continentales y marinos: análisis comparativo de ejemplos modernos y del registro geológico”, a cargo del Dr. Fernando J. Gomez. </p>
+<em> Geoólogo. Becario doctoral CONICET en el <a href="https://cicterra.conicet.unc.edu.ar/" target="_blank">CICTERRA</a>. </em>  <p> Mi tesis doctoral titulada “Estudio sedimentológico, geomicrobiológico y geoquímico de depósitos carbonáticos modernos y Holocenos del Lago Strobel: implicancias ambientales, paleoclimáticas y astrobiológicas” está en el marco del proyecto PIP: “Estudio integrado sedimentológico, geomicrobiológico y biogeoquímico de carbonatos continentales y marinos: análisis comparativo de ejemplos modernos y del registro geológico”, a cargo del Dr. Fernando J. Gomez. </p>
 
-<p>Mi tesis doctoral apunta a realizar un estudio integral sedimentológico, geomicrobiológico y biogeoquímico que nos permita identificar y caracterizar los factores que influyen en la precipitación de carbonatos en el Lago Strobel (Santa Cruz, Argentina), un excelente análogo terrestre para el sistema fluvio-deltaico que está siendo explorado por la NASA en el Cráter Jezero, del planeta Marte. Nuestro objetivo principal es identificar y caracterizar señales texturales, mineralógicas y biogeoquímicas potencialmente preservadas en estos depósitos del Holoceno, con el fin de poder discriminar señales biológicas de aquellas puramente químicas en depósitos carbonáticos del registro geológico. </p>
+<p>Mi investigación apunta a realizar un estudio integral sedimentológico, geomicrobiológico y biogeoquímico que nos permita identificar y caracterizar los factores que influyen en la precipitación de carbonatos en el Lago Strobel (Santa Cruz, Argentina), un excelente análogo terrestre para el sistema fluvio-deltaico que está siendo explorado por la NASA en el Cráter Jezero, del planeta Marte. Nuestro objetivo principal es identificar y caracterizar señales texturales, mineralógicas y biogeoquímicas potencialmente preservadas en estos depósitos del Holoceno, con el fin de poder discriminar señales biológicas de aquellas puramente químicas en depósitos carbonáticos del registro geológico. </p>
 
 <p>
   <em>Contacto:</em><br>
