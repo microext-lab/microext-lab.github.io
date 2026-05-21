@@ -75,7 +75,7 @@ sus lagunas asociadas (Patagonia).
 
 ---
 
-##**Colaborando con...**
+##Colaborando con:
 
 - ### **Dr. Fernando J. Gomez**
 
@@ -83,7 +83,8 @@ sus lagunas asociadas (Patagonia).
   <img src="{{ site.baseurl }}/images/fer.png" width="200" style="border-radius: 12px;" alt="Foto de Fer">
 
   <div>
- <p> <em> Geoólogo. Docente. Investigador. </em> Mis intereses combinan los campos de la Sedimentología, Geomicrobiología y Biogeoquímica para comprender las interacciones entre procesos fisicoquímicos y biológicos, tanto en ambientes modernos como del registro geológico. Este enfoque permite integrar procesos que ocurren desde escalas microscópicas (interacciones microbios-minerales) hasta la escala del análisis de cuencas (ej. procesos sedimentarios y ciclos biogeoquímicos). El objetivo central es tener una comprensión más profunda de las interrelaciones entre la Geósfera y la Biósfera y su registro sedimentario. Esto de utilidad tanto desde el punto de vista académico como también aplicado, como por ejemplo en exploración de hidrocarburos y biotecnología. Actualmente estoy participando en proyectos relacionados a Astrobiología, a través del programa  EUROPLANET 2024 RI Research Infraestructure PFA (Planetary Field Analogues). También soy docente en la Universidad Nacional de Córdoba y he sido professor invitado en la Universidad Nacional de Tierra del Fuego(Argentina)  y Washington University, Saint Louis (USA). </p>
+ <em> Geoólogo. Docente. Investigador del <a href="https://cicterra.conicet.unc.edu.ar/" target="_blank">CICTERRA</a>.</em> 
+    <p> Mis intereses combinan los campos de la Sedimentología, Geomicrobiología y Biogeoquímica para comprender las interacciones entre procesos fisicoquímicos y biológicos, tanto en ambientes modernos como del registro geológico. Este enfoque permite integrar procesos que ocurren desde escalas microscópicas (interacciones microbios-minerales) hasta la escala del análisis de cuencas (ej. procesos sedimentarios y ciclos biogeoquímicos). El objetivo central es tener una comprensión más profunda de las interrelaciones entre la Geósfera y la Biósfera y su registro sedimentario. Esto de utilidad tanto desde el punto de vista académico como también aplicado, como por ejemplo en exploración de hidrocarburos y biotecnología. Actualmente estoy participando en proyectos relacionados a Astrobiología, a través del programa  EUROPLANET 2024 RI Research Infraestructure PFA (Planetary Field Analogues). También soy docente en la Universidad Nacional de Córdoba y he sido professor invitado en la Universidad Nacional de Tierra del Fuego(Argentina)  y Washington University, Saint Louis (USA). </p>
 <p>Para más información sobre mis actividades de investigación pueden visitar el siguiente link:  https://fernandojgomez.github.io/FernandoJGomez/ </p>
 
 <p>
@@ -123,7 +124,7 @@ sus lagunas asociadas (Patagonia).
   <img src="{{ site.baseurl }}/images/emi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Emi">
 
   <div>
- <p> <em> Geoólogo. Becario doctoral CONICET. </em> Mi tesis doctoral titulada “Estudio sedimentológico, geomicrobiológico y geoquímico de depósitos carbonáticos modernos y Holocenos del Lago Strobel: implicancias ambientales, paleoclimáticas y astrobiológicas” está en el marco del proyecto PIP: “Estudio integrado sedimentológico, geomicrobiológico y biogeoquímico de carbonatos continentales y marinos: análisis comparativo de ejemplos modernos y del registro geológico”, a cargo del Dr. Fernando J. Gomez. </p>
+ <p> <em> Geoólogo. Becario doctoral CONICET en el <a href="https://cicterra.conicet.unc.edu.ar/" target="_blank">CICTERRA</a>. </em> Mi tesis doctoral titulada “Estudio sedimentológico, geomicrobiológico y geoquímico de depósitos carbonáticos modernos y Holocenos del Lago Strobel: implicancias ambientales, paleoclimáticas y astrobiológicas” está en el marco del proyecto PIP: “Estudio integrado sedimentológico, geomicrobiológico y biogeoquímico de carbonatos continentales y marinos: análisis comparativo de ejemplos modernos y del registro geológico”, a cargo del Dr. Fernando J. Gomez. </p>
 
 <p>Mi tesis doctoral apunta a realizar un estudio integral sedimentológico, geomicrobiológico y biogeoquímico que nos permita identificar y caracterizar los factores que influyen en la precipitación de carbonatos en el Lago Strobel (Santa Cruz, Argentina), un excelente análogo terrestre para el sistema fluvio-deltaico que está siendo explorado por la NASA en el Cráter Jezero, del planeta Marte. Nuestro objetivo principal es identificar y caracterizar señales texturales, mineralógicas y biogeoquímicas potencialmente preservadas en estos depósitos del Holoceno, con el fin de poder discriminar señales biológicas de aquellas puramente químicas en depósitos carbonáticos del registro geológico. </p>
 
