@@ -75,7 +75,7 @@ sus lagunas asociadas (Patagonia).
 
 ---
 
-##Colaborando con:
+## Colaborando con:
 
 - ### **Dr. Fernando J. Gomez**
 
@@ -104,7 +104,7 @@ sus lagunas asociadas (Patagonia).
   <img src="{{ site.baseurl }}/images/agustinmors.jpg" width="200" style="border-radius: 12px;" alt="Foto de Agustin">
 
   <div>
- <p> <em> Geoólogo. Becario posdoctoral de CONICET </em>.  Un espectro continuo de procesos físico-químicos, microbiológicos y sedimentarios influyen en la formación de depósitos carbonáticos. Mis intereses de investigación incluyen la comprensión a diferentes escalas de estos procesos que pueden ayudar a reconocer y diferenciar las señales físicas, químicas y biológicas dentro del registro sedimentario, permitiendo la comprensión más profunda de las interrelaciones entre la Geósfera y la Biósfera.</p>
+ <p> <em> Geoólogo. Investigador asistente CONICET </em>.  Un espectro continuo de procesos físico-químicos, microbiológicos y sedimentarios influyen en la formación de depósitos carbonáticos. Mis intereses de investigación incluyen la comprensión a diferentes escalas de estos procesos que pueden ayudar a reconocer y diferenciar las señales físicas, químicas y biológicas dentro del registro sedimentario, permitiendo la comprensión más profunda de las interrelaciones entre la Geósfera y la Biósfera.</p>
 
 <p>
   <em>Contacto:</em><br>
