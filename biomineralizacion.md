@@ -85,8 +85,7 @@ sus lagunas asociadas (Patagonia).
   <div>
  <em> Geoólogo. Docente. Investigador del <a href="https://cicterra.conicet.unc.edu.ar/" target="_blank">CICTERRA</a>.</em> 
     <p> Mis intereses combinan los campos de la Sedimentología, Geomicrobiología y Biogeoquímica para comprender las interacciones entre procesos fisicoquímicos y biológicos, tanto en ambientes modernos como del registro geológico. Este enfoque permite integrar procesos que ocurren desde escalas microscópicas (interacciones microbios-minerales) hasta la escala del análisis de cuencas (ej. procesos sedimentarios y ciclos biogeoquímicos). El objetivo central es tener una comprensión más profunda de las interrelaciones entre la Geósfera y la Biósfera y su registro sedimentario. Esto de utilidad tanto desde el punto de vista académico como también aplicado, como por ejemplo en exploración de hidrocarburos y biotecnología. Actualmente estoy participando en proyectos relacionados a Astrobiología, a través del programa  EUROPLANET 2024 RI Research Infraestructure PFA (Planetary Field Analogues). También soy docente en la Universidad Nacional de Córdoba y he sido professor invitado en la Universidad Nacional de Tierra del Fuego(Argentina)  y Washington University, Saint Louis (USA). </p>
-<p>Para más información sobre mis actividades de investigación pueden visitar el siguiente link:  https://fernandojgomez.github.io/FernandoJGomez/ </p>
-
+<p>Para más información sobre mis actividades de investigación pueden visitar el siguiente <a href="https://fernandojgomez.github.io/FernandoJGomez/" target="_blank">link</a>.</p>
 <p>
   <em>Contacto:</em><br>
   <a href="mailto:fjgomez@unc.edu.ar">
