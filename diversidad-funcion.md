@@ -65,7 +65,7 @@ cianobacterias y algas verdes y la producción de sustancias de reservas como el
   <img src="{{ site.baseurl }}/images/nati.jpg" width="200" style="border-radius: 12px;" alt="Foto de Nati">
 
   <div>
-  <em> Bióloga. Becaria doctoral CONICET (2026) en el </em> 
+  <em> Bióloga. Becaria doctoral CONICET (2026) en el <a href="https://cicterra.conicet.unc.edu.ar/" target="_blank">CICTERRA</a>.</em> 
     <p> Mi interés se centra en el estudio de los microorganismos y su relación con las variables hidroquímicas y ambientales de los hábitats que ocupan, abordando su presencia, composición y las estrategias que les permiten sobrevivir en entornos extremos.
 Mi trabajo se enfoca en la caracterización de comunidades microbianas de ambientes extremos, principalmente en lagunas hipersalinas de la Puna (Catamarca) y en lagunas de la Península Antártica. </p>
 <p> Cuento con experiencia en trabajo de laboratorio, análisis bioinformáticos, campañas de campo y análisis de datos ambientales. Además, participo en actividades docentes de grado y posgrado, así como en proyectos de monitoreo ambiental. </p>
@@ -90,7 +90,7 @@ Mi trabajo se enfoca en la caracterización de comunidades microbianas de ambien
   <img src="{{ site.baseurl }}/images/Kari.jpg" width="200" style="border-radius: 12px;" alt="Foto de Kari">
 
   <div>
-  <em> Geoóloga. Investigadora CICTERRA. Docente. </em> 
+  <em> Geoóloga. Docente e investigadora del <a href="https://cicterra.conicet.unc.edu.ar/" target="_blank">CICTERRA</a>. </em> 
 <p> Investigo procesos geoquímicos que ocurren en la superficie terrestre, apuntando a meteorización química en ríos y lagunas. En particular analizo los elementos químicos disueltos y particulados (mayoritarios, trazas, elementos de tierras raras e isótopos), su evolución en el tiempo y distancia y su interacción con los factores que lo rodean en el ambiente. </p>
 
 <p> En los últimos años he abordado esta disciplina en sistemas extremos, ya sean drenajes ácidos, sistemas muy fríos o bien lagunas concentradas. Son sistemas muy importantes desde el punto de vista ambiental, ya sea para determinar líneas de base naturales como para predecir futuras contaminaciones. </p>
