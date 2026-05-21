@@ -60,7 +60,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
   <img src="{{ site.baseurl }}/images/edith.jpg" width="200" style="border-radius: 12px;" alt="Foto de Edith">
 
   <div>
-<em>Bióloga. Docente e investigadora del <a href="https://fcefyn.unc.edu.ar/facultad/secretarias/investigacion-y-desarrollo/centros/centro-ecologia-y-recursos-naturales-renovables-cernar/" target="_blank">CERNAR</a>.</em>
+<em>Bióloga. Docente (FCEFyN - UNC) e investigadora del <a href="https://fcefyn.unc.edu.ar/facultad/secretarias/investigacion-y-desarrollo/centros/centro-ecologia-y-recursos-naturales-renovables-cernar/" target="_blank">CERNAR</a>.</em>
     <p>Trabajo en ecología de líquenes estudiando cómo se estructuran las comunidades según los diferentes usos del suelo. Actualmente me focalizo en las biocostras del Chaco Seco, investigando su composición, patrones de distribución y la relación con los rasgos funcionales de la vegetación.  
   Soy una de las coordinadoras del proyecto “El Bosque Nativo Vuelve. </p>
 
@@ -127,7 +127,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
   <img src="{{ site.baseurl }}/images/gabi.jpeg" width="200" style="border-radius: 12px;" alt="Foto de Gabi">
 
   <div>
-  <em>Geóloga. Docente e investigadora del <a href="https://cicterra.conicet.unc.edu.ar/" target="_blank">CICTERRA</a>.</em>
+  <em>Geóloga. Docente (FCEFyN - UNC) e investigadora principal CONICET, en el <a href="https://cicterra.conicet.unc.edu.ar/" target="_blank">CICTERRA</a>.</em>
     <p>Mi campo de investigación es el estudio de las fuentes y transformaciones de elementos en el medio exógeno a distintas escalas espaciales y temporales. Estos estudios permiten comprender los procesos que controlan el transporte y la remoción de elementos en medios acuosos y la formación de depósitos.</p>
   <p>Utilizo técnicas avanzadas de caracterización de geomateriales (XRD, SEM/EDX, EMP, ICP-MS), además de herramientas de luz sincrotrón (XAFS, XRF) y análisis isotópicos. Los procesos observados en el campo son complementados con experimentos de laboratorio y modelado geoquímico.</p>
 
@@ -147,7 +147,7 @@ Esta línea de investigación estudia cómo se ve afectada la dinámica microbia
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <img src="{{ site.baseurl }}/images/romi.jpg" width="200" style="border-radius: 12px;" alt="Foto de Romi">
   <div>
-<em>Bióloga. Docente e investigadora del <a href="https://fcefyn.unc.edu.ar/facultad/secretarias/investigacion-y-desarrollo/centros/centro-ecologia-y-recursos-naturales-renovables-cernar/" target="_blank">CERNAR</a>.</em>
+<em>Bióloga. Docente (FCEFyN - UNC) e investigadora adjunta CONICET, en el <a href="https://fcefyn.unc.edu.ar/facultad/secretarias/investigacion-y-desarrollo/centros/centro-ecologia-y-recursos-naturales-renovables-cernar/" target="_blank">CERNAR</a>.</em>
     <p>Me interesa particularmente el estudio de los procesos de regeneración de especies leñosas y la respuesta de la flora a distintos disturbios. También participo en proyectos de extensión y educación ambiental.</p>
 
 <p>
