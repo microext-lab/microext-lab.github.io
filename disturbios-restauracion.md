@@ -42,7 +42,7 @@ li {
 
 ## Descripción
 
-Esta línea de investigación estudia cómo se ve afectada la dinámica microbiana posfuego. También analizamos las costras biológicas, su colonización post-disturbio, y su rol en recuperación de suelos. En colaboración con el Centro de Ecología y Recursos Naturales Renovables "Dr. Ricardo Luti"
+Esta línea de investigación estudia cómo se ve afectada la dinámica microbiana posfuego. También analizamos las costras biológicas, su colonización post-disturbio, y su rol en recuperación de suelos. En colaboración con el Centro de Ecología y Recursos Naturales Renovables "Dr. Ricardo Luti", y con el Centro de Investigaciones en Ciencias de la Tierra (CICTERRA).
 
 ## Objetivos principales
 
